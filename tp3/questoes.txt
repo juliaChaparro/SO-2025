@@ -1,0 +1,42 @@
+Julia Evelyn Chaparro Ferreira Matricula: 22351229 
+
+Pedro Barreto de Sousa Matricula: 00000000
+
+
+Questao 1: 
+
+Foram testados valores de paginação com 1, 200, 500 e 999 páginas. Os resultados obtidos foram:
+
+Página: 1
+Tempo total: 0.000070 segundos
+Tempo médio por iteração: 0.0000000070 segundos
+
+Página: 200
+Tempo total: 0.033042 segundos
+Tempo médio por iteração: 0.000000016521 segundos
+
+Página: 500
+Tempo total: 0.106217 segundos
+Tempo médio por iteração: 0.0000000212434 segundos
+
+Página: 999
+Tempo total: 0.212278 segundos
+Tempo médio por iteração: 0.0000000212490 segundos
+
+Podemos observar que o tempo total cresce proporcionalmente ao número de páginas, e o tempo médio por iteração tende a se estabilizar conforme a carga aumenta.
+
+Questao 2:
+
+Com o uso do script, testamos com uma quantidade maior de paginações, chegando a 5 mil páginas. Observamos que o tempo total aumentou de forma proporcional ao número de páginas. Isso indica que o sistema apresenta um comportamento linear em relação ao número de páginas, o que é considerado aceitável e esperado em termos de desempenho. Ou seja, quanto mais páginas são processadas, maior é o tempo total, mantendo uma relação direta e previsível entre carga e tempo.
+
+Questao 3:
+
+Quando foi gerado o grafico 1, podemos perceber que o gráfico mostra que o sistema tem um comportamento linear e eficiente até  cerca de 3000 páginas. No entanto, a partir desse ponto, surgem variações significativas de tempo e picos de lentidão, sugerindo que o sistema pode estar atingindo limites de desempenho.
+
+Questao 4: 
+
+Quando foi utilizado o mesmo core na CPU podemos obsever que o gráfico mostra que, até 1000 páginas, o sistema possui um desempenho estável, eficiente e linear. O tempo total cresce proporcionalmente ao número de páginas, sem grandes oscilações, indicando que o sistema lida bem com cargas moderadas de paginação. Mas teve um tempo de espera muito maior quando utilizamos versões anteriores do código
+
+
+
+ 

@@ -1,0 +1,4000 @@
+Pagina:0
+Tempo total: 0.000029 segundos
+Tempo médio por iteração: inf segundos
+
+Pagina:1
+Tempo total: 0.000070 segundos
+Tempo médio por iteração: 0.00000000700000000000 segundos
+
+Pagina:2
+Tempo total: 0.000165 segundos
+Tempo médio por iteração: 0.00000000825000000000 segundos
+
+Pagina:3
+Tempo total: 0.000159 segundos
+Tempo médio por iteração: 0.00000000530000000000 segundos
+
+Pagina:4
+Tempo total: 0.000173 segundos
+Tempo médio por iteração: 0.00000000432500000000 segundos
+
+Pagina:5
+Tempo total: 0.000212 segundos
+Tempo médio por iteração: 0.00000000424000000000 segundos
+
+Pagina:6
+Tempo total: 0.000361 segundos
+Tempo médio por iteração: 0.00000000601666666667 segundos
+
+Pagina:7
+Tempo total: 0.000268 segundos
+Tempo médio por iteração: 0.00000000382857142857 segundos
+
+Pagina:8
+Tempo total: 0.000457 segundos
+Tempo médio por iteração: 0.00000000571250000000 segundos
+
+Pagina:9
+Tempo total: 0.001012 segundos
+Tempo médio por iteração: 0.00000001124444444444 segundos
+
+Pagina:10
+Tempo total: 0.001516 segundos
+Tempo médio por iteração: 0.00000001516000000000 segundos
+
+Pagina:11
+Tempo total: 0.002296 segundos
+Tempo médio por iteração: 0.00000002087272727273 segundos
+
+Pagina:12
+Tempo total: 0.002496 segundos
+Tempo médio por iteração: 0.00000002080000000000 segundos
+
+Pagina:13
+Tempo total: 0.001115 segundos
+Tempo médio por iteração: 0.00000000857692307692 segundos
+
+Pagina:14
+Tempo total: 0.002956 segundos
+Tempo médio por iteração: 0.00000002111428571429 segundos
+
+Pagina:15
+Tempo total: 0.001386 segundos
+Tempo médio por iteração: 0.00000000924000000000 segundos
+
+Pagina:16
+Tempo total: 0.004279 segundos
+Tempo médio por iteração: 0.00000002674375000000 segundos
+
+Pagina:17
+Tempo total: 0.003566 segundos
+Tempo médio por iteração: 0.00000002097647058824 segundos
+
+Pagina:18
+Tempo total: 0.003927 segundos
+Tempo médio por iteração: 0.00000002181666666667 segundos
+
+Pagina:19
+Tempo total: 0.003472 segundos
+Tempo médio por iteração: 0.00000001827368421053 segundos
+
+Pagina:20
+Tempo total: 0.002219 segundos
+Tempo médio por iteração: 0.00000001109500000000 segundos
+
+Pagina:21
+Tempo total: 0.002609 segundos
+Tempo médio por iteração: 0.00000001242380952381 segundos
+
+Pagina:22
+Tempo total: 0.002982 segundos
+Tempo médio por iteração: 0.00000001355454545455 segundos
+
+Pagina:23
+Tempo total: 0.004811 segundos
+Tempo médio por iteração: 0.00000002091739130435 segundos
+
+Pagina:24
+Tempo total: 0.001570 segundos
+Tempo médio por iteração: 0.00000000654166666667 segundos
+
+Pagina:25
+Tempo total: 0.008259 segundos
+Tempo médio por iteração: 0.00000003303600000000 segundos
+
+Pagina:26
+Tempo total: 0.009283 segundos
+Tempo médio por iteração: 0.00000003570384615385 segundos
+
+Pagina:27
+Tempo total: 0.003514 segundos
+Tempo médio por iteração: 0.00000001301481481481 segundos
+
+Pagina:28
+Tempo total: 0.003282 segundos
+Tempo médio por iteração: 0.00000001172142857143 segundos
+
+Pagina:29
+Tempo total: 0.007149 segundos
+Tempo médio por iteração: 0.00000002465172413793 segundos
+
+Pagina:30
+Tempo total: 0.006047 segundos
+Tempo médio por iteração: 0.00000002015666666667 segundos
+
+Pagina:31
+Tempo total: 0.001999 segundos
+Tempo médio por iteração: 0.00000000644838709677 segundos
+
+Pagina:32
+Tempo total: 0.010494 segundos
+Tempo médio por iteração: 0.00000003279375000000 segundos
+
+Pagina:33
+Tempo total: 0.003774 segundos
+Tempo médio por iteração: 0.00000001143636363636 segundos
+
+Pagina:34
+Tempo total: 0.001755 segundos
+Tempo médio por iteração: 0.00000000516176470588 segundos
+
+Pagina:35
+Tempo total: 0.005968 segundos
+Tempo médio por iteração: 0.00000001705142857143 segundos
+
+Pagina:36
+Tempo total: 0.007391 segundos
+Tempo médio por iteração: 0.00000002053055555556 segundos
+
+Pagina:37
+Tempo total: 0.005918 segundos
+Tempo médio por iteração: 0.00000001599459459459 segundos
+
+Pagina:38
+Tempo total: 0.009236 segundos
+Tempo médio por iteração: 0.00000002430526315789 segundos
+
+Pagina:39
+Tempo total: 0.009721 segundos
+Tempo médio por iteração: 0.00000002492564102564 segundos
+
+Pagina:40
+Tempo total: 0.004581 segundos
+Tempo médio por iteração: 0.00000001145250000000 segundos
+
+Pagina:41
+Tempo total: 0.011802 segundos
+Tempo médio por iteração: 0.00000002878536585366 segundos
+
+Pagina:42
+Tempo total: 0.005241 segundos
+Tempo médio por iteração: 0.00000001247857142857 segundos
+
+Pagina:43
+Tempo total: 0.009191 segundos
+Tempo médio por iteração: 0.00000002137441860465 segundos
+
+Pagina:44
+Tempo total: 0.015825 segundos
+Tempo médio por iteração: 0.00000003596590909091 segundos
+
+Pagina:45
+Tempo total: 0.011782 segundos
+Tempo médio por iteração: 0.00000002618222222222 segundos
+
+Pagina:46
+Tempo total: 0.016902 segundos
+Tempo médio por iteração: 0.00000003674347826087 segundos
+
+Pagina:47
+Tempo total: 0.018210 segundos
+Tempo médio por iteração: 0.00000003874468085106 segundos
+
+Pagina:48
+Tempo total: 0.009376 segundos
+Tempo médio por iteração: 0.00000001953333333333 segundos
+
+Pagina:49
+Tempo total: 0.014195 segundos
+Tempo médio por iteração: 0.00000002896938775510 segundos
+
+Pagina:50
+Tempo total: 0.015125 segundos
+Tempo médio por iteração: 0.00000003025000000000 segundos
+
+Pagina:51
+Tempo total: 0.015083 segundos
+Tempo médio por iteração: 0.00000002957450980392 segundos
+
+Pagina:52
+Tempo total: 0.012673 segundos
+Tempo médio por iteração: 0.00000002437115384615 segundos
+
+Pagina:53
+Tempo total: 0.010836 segundos
+Tempo médio por iteração: 0.00000002044528301887 segundos
+
+Pagina:54
+Tempo total: 0.015452 segundos
+Tempo médio por iteração: 0.00000002861481481481 segundos
+
+Pagina:55
+Tempo total: 0.016687 segundos
+Tempo médio por iteração: 0.00000003034000000000 segundos
+
+Pagina:56
+Tempo total: 0.016406 segundos
+Tempo médio por iteração: 0.00000002929642857143 segundos
+
+Pagina:57
+Tempo total: 0.017363 segundos
+Tempo médio por iteração: 0.00000003046140350877 segundos
+
+Pagina:58
+Tempo total: 0.020926 segundos
+Tempo médio por iteração: 0.00000003607931034483 segundos
+
+Pagina:59
+Tempo total: 0.021507 segundos
+Tempo médio por iteração: 0.00000003645254237288 segundos
+
+Pagina:60
+Tempo total: 0.022854 segundos
+Tempo médio por iteração: 0.00000003809000000000 segundos
+
+Pagina:61
+Tempo total: 0.020076 segundos
+Tempo médio por iteração: 0.00000003291147540984 segundos
+
+Pagina:62
+Tempo total: 0.020981 segundos
+Tempo médio por iteração: 0.00000003384032258065 segundos
+
+Pagina:63
+Tempo total: 0.019874 segundos
+Tempo médio por iteração: 0.00000003154603174603 segundos
+
+Pagina:64
+Tempo total: 0.017413 segundos
+Tempo médio por iteração: 0.00000002720781250000 segundos
+
+Pagina:65
+Tempo total: 0.018062 segundos
+Tempo médio por iteração: 0.00000002778769230769 segundos
+
+Pagina:66
+Tempo total: 0.014722 segundos
+Tempo médio por iteração: 0.00000002230606060606 segundos
+
+Pagina:67
+Tempo total: 0.020282 segundos
+Tempo médio por iteração: 0.00000003027164179104 segundos
+
+Pagina:68
+Tempo total: 0.023201 segundos
+Tempo médio por iteração: 0.00000003411911764706 segundos
+
+Pagina:69
+Tempo total: 0.023846 segundos
+Tempo médio por iteração: 0.00000003455942028986 segundos
+
+Pagina:70
+Tempo total: 0.023789 segundos
+Tempo médio por iteração: 0.00000003398428571429 segundos
+
+Pagina:71
+Tempo total: 0.024035 segundos
+Tempo médio por iteração: 0.00000003385211267606 segundos
+
+Pagina:72
+Tempo total: 0.022747 segundos
+Tempo médio por iteração: 0.00000003159305555556 segundos
+
+Pagina:73
+Tempo total: 0.020904 segundos
+Tempo médio por iteração: 0.00000002863561643836 segundos
+
+Pagina:74
+Tempo total: 0.025330 segundos
+Tempo médio por iteração: 0.00000003422972972973 segundos
+
+Pagina:75
+Tempo total: 0.021177 segundos
+Tempo médio por iteração: 0.00000002823600000000 segundos
+
+Pagina:76
+Tempo total: 0.017981 segundos
+Tempo médio por iteração: 0.00000002365921052632 segundos
+
+Pagina:77
+Tempo total: 0.023183 segundos
+Tempo médio por iteração: 0.00000003010779220779 segundos
+
+Pagina:78
+Tempo total: 0.023251 segundos
+Tempo médio por iteração: 0.00000002980897435897 segundos
+
+Pagina:79
+Tempo total: 0.027077 segundos
+Tempo médio por iteração: 0.00000003427468354430 segundos
+
+Pagina:80
+Tempo total: 0.027758 segundos
+Tempo médio por iteração: 0.00000003469750000000 segundos
+
+Pagina:81
+Tempo total: 0.022505 segundos
+Tempo médio por iteração: 0.00000002778395061728 segundos
+
+Pagina:82
+Tempo total: 0.021944 segundos
+Tempo médio por iteração: 0.00000002676097560976 segundos
+
+Pagina:83
+Tempo total: 0.026089 segundos
+Tempo médio por iteração: 0.00000003143253012048 segundos
+
+Pagina:84
+Tempo total: 0.022938 segundos
+Tempo médio por iteração: 0.00000002730714285714 segundos
+
+Pagina:85
+Tempo total: 0.020276 segundos
+Tempo médio por iteração: 0.00000002385411764706 segundos
+
+Pagina:86
+Tempo total: 0.022684 segundos
+Tempo médio por iteração: 0.00000002637674418605 segundos
+
+Pagina:87
+Tempo total: 0.026494 segundos
+Tempo médio por iteração: 0.00000003045287356322 segundos
+
+Pagina:88
+Tempo total: 0.029497 segundos
+Tempo médio por iteração: 0.00000003351931818182 segundos
+
+Pagina:89
+Tempo total: 0.030013 segundos
+Tempo médio por iteração: 0.00000003372247191011 segundos
+
+Pagina:90
+Tempo total: 0.025700 segundos
+Tempo médio por iteração: 0.00000002855555555556 segundos
+
+Pagina:91
+Tempo total: 0.028049 segundos
+Tempo médio por iteração: 0.00000003082307692308 segundos
+
+Pagina:92
+Tempo total: 0.017886 segundos
+Tempo médio por iteração: 0.00000001944130434783 segundos
+
+Pagina:93
+Tempo total: 0.017327 segundos
+Tempo médio por iteração: 0.00000001863118279570 segundos
+
+Pagina:94
+Tempo total: 0.027700 segundos
+Tempo médio por iteração: 0.00000002946808510638 segundos
+
+Pagina:95
+Tempo total: 0.023323 segundos
+Tempo médio por iteração: 0.00000002455052631579 segundos
+
+Pagina:96
+Tempo total: 0.027964 segundos
+Tempo médio por iteração: 0.00000002912916666667 segundos
+
+Pagina:97
+Tempo total: 0.026939 segundos
+Tempo médio por iteração: 0.00000002777216494845 segundos
+
+Pagina:98
+Tempo total: 0.033030 segundos
+Tempo médio por iteração: 0.00000003370408163265 segundos
+
+Pagina:99
+Tempo total: 0.024406 segundos
+Tempo médio por iteração: 0.00000002465252525253 segundos
+
+Pagina:100
+Tempo total: 0.012382 segundos
+Tempo médio por iteração: 0.00000001238200000000 segundos
+
+Pagina:101
+Tempo total: 0.013313 segundos
+Tempo médio por iteração: 0.00000001318118811881 segundos
+
+Pagina:102
+Tempo total: 0.012922 segundos
+Tempo médio por iteração: 0.00000001266862745098 segundos
+
+Pagina:103
+Tempo total: 0.014778 segundos
+Tempo médio por iteração: 0.00000001434757281553 segundos
+
+Pagina:104
+Tempo total: 0.026783 segundos
+Tempo médio por iteração: 0.00000002575288461538 segundos
+
+Pagina:105
+Tempo total: 0.032772 segundos
+Tempo médio por iteração: 0.00000003121142857143 segundos
+
+Pagina:106
+Tempo total: 0.033551 segundos
+Tempo médio por iteração: 0.00000003165188679245 segundos
+
+Pagina:107
+Tempo total: 0.024000 segundos
+Tempo médio por iteração: 0.00000002242990654206 segundos
+
+Pagina:108
+Tempo total: 0.030913 segundos
+Tempo médio por iteração: 0.00000002862314814815 segundos
+
+Pagina:109
+Tempo total: 0.036794 segundos
+Tempo médio por iteração: 0.00000003375596330275 segundos
+
+Pagina:110
+Tempo total: 0.029734 segundos
+Tempo médio por iteração: 0.00000002703090909091 segundos
+
+Pagina:111
+Tempo total: 0.029185 segundos
+Tempo médio por iteração: 0.00000002629279279279 segundos
+
+Pagina:112
+Tempo total: 0.032283 segundos
+Tempo médio por iteração: 0.00000002882410714286 segundos
+
+Pagina:113
+Tempo total: 0.020653 segundos
+Tempo médio por iteração: 0.00000001827699115044 segundos
+
+Pagina:114
+Tempo total: 0.023914 segundos
+Tempo médio por iteração: 0.00000002097719298246 segundos
+
+Pagina:115
+Tempo total: 0.027054 segundos
+Tempo médio por iteração: 0.00000002352521739130 segundos
+
+Pagina:116
+Tempo total: 0.031044 segundos
+Tempo médio por iteração: 0.00000002676206896552 segundos
+
+Pagina:117
+Tempo total: 0.026990 segundos
+Tempo médio por iteração: 0.00000002306837606838 segundos
+
+Pagina:118
+Tempo total: 0.038878 segundos
+Tempo médio por iteração: 0.00000003294745762712 segundos
+
+Pagina:119
+Tempo total: 0.035331 segundos
+Tempo médio por iteração: 0.00000002968991596639 segundos
+
+Pagina:120
+Tempo total: 0.038836 segundos
+Tempo médio por iteração: 0.00000003236333333333 segundos
+
+Pagina:121
+Tempo total: 0.024501 segundos
+Tempo médio por iteração: 0.00000002024876033058 segundos
+
+Pagina:122
+Tempo total: 0.018566 segundos
+Tempo médio por iteração: 0.00000001521803278689 segundos
+
+Pagina:123
+Tempo total: 0.032578 segundos
+Tempo médio por iteração: 0.00000002648617886179 segundos
+
+Pagina:124
+Tempo total: 0.039084 segundos
+Tempo médio por iteração: 0.00000003151935483871 segundos
+
+Pagina:125
+Tempo total: 0.038717 segundos
+Tempo médio por iteração: 0.00000003097360000000 segundos
+
+Pagina:126
+Tempo total: 0.039695 segundos
+Tempo médio por iteração: 0.00000003150396825397 segundos
+
+Pagina:127
+Tempo total: 0.038515 segundos
+Tempo médio por iteração: 0.00000003032677165354 segundos
+
+Pagina:128
+Tempo total: 0.031710 segundos
+Tempo médio por iteração: 0.00000002477343750000 segundos
+
+Pagina:129
+Tempo total: 0.032619 segundos
+Tempo médio por iteração: 0.00000002528604651163 segundos
+
+Pagina:130
+Tempo total: 0.032534 segundos
+Tempo médio por iteração: 0.00000002502615384615 segundos
+
+Pagina:131
+Tempo total: 0.035348 segundos
+Tempo médio por iteração: 0.00000002698320610687 segundos
+
+Pagina:132
+Tempo total: 0.038161 segundos
+Tempo médio por iteração: 0.00000002890984848485 segundos
+
+Pagina:133
+Tempo total: 0.036234 segundos
+Tempo médio por iteração: 0.00000002724360902256 segundos
+
+Pagina:134
+Tempo total: 0.036277 segundos
+Tempo médio por iteração: 0.00000002707238805970 segundos
+
+Pagina:135
+Tempo total: 0.048186 segundos
+Tempo médio por iteração: 0.00000003569333333333 segundos
+
+Pagina:136
+Tempo total: 0.045074 segundos
+Tempo médio por iteração: 0.00000003314264705882 segundos
+
+Pagina:137
+Tempo total: 0.019274 segundos
+Tempo médio por iteração: 0.00000001406861313869 segundos
+
+Pagina:138
+Tempo total: 0.016707 segundos
+Tempo médio por iteração: 0.00000001210652173913 segundos
+
+Pagina:139
+Tempo total: 0.018975 segundos
+Tempo médio por iteração: 0.00000001365107913669 segundos
+
+Pagina:140
+Tempo total: 0.018803 segundos
+Tempo médio por iteração: 0.00000001343071428571 segundos
+
+Pagina:141
+Tempo total: 0.025535 segundos
+Tempo médio por iteração: 0.00000001810992907801 segundos
+
+Pagina:142
+Tempo total: 0.040038 segundos
+Tempo médio por iteração: 0.00000002819577464789 segundos
+
+Pagina:143
+Tempo total: 0.048254 segundos
+Tempo médio por iteração: 0.00000003374405594406 segundos
+
+Pagina:144
+Tempo total: 0.041488 segundos
+Tempo médio por iteração: 0.00000002881111111111 segundos
+
+Pagina:145
+Tempo total: 0.037182 segundos
+Tempo médio por iteração: 0.00000002564275862069 segundos
+
+Pagina:146
+Tempo total: 0.032438 segundos
+Tempo médio por iteração: 0.00000002221780821918 segundos
+
+Pagina:147
+Tempo total: 0.038347 segundos
+Tempo médio por iteração: 0.00000002608639455782 segundos
+
+Pagina:148
+Tempo total: 0.035607 segundos
+Tempo médio por iteração: 0.00000002405878378378 segundos
+
+Pagina:149
+Tempo total: 0.036340 segundos
+Tempo médio por iteração: 0.00000002438926174497 segundos
+
+Pagina:150
+Tempo total: 0.037390 segundos
+Tempo médio por iteração: 0.00000002492666666667 segundos
+
+Pagina:151
+Tempo total: 0.036705 segundos
+Tempo médio por iteração: 0.00000002430794701987 segundos
+
+Pagina:152
+Tempo total: 0.038651 segundos
+Tempo médio por iteração: 0.00000002542828947368 segundos
+
+Pagina:153
+Tempo total: 0.026208 segundos
+Tempo médio por iteração: 0.00000001712941176471 segundos
+
+Pagina:154
+Tempo total: 0.034796 segundos
+Tempo médio por iteração: 0.00000002259480519481 segundos
+
+Pagina:155
+Tempo total: 0.031869 segundos
+Tempo médio por iteração: 0.00000002056064516129 segundos
+
+Pagina:156
+Tempo total: 0.031913 segundos
+Tempo médio por iteração: 0.00000002045705128205 segundos
+
+Pagina:157
+Tempo total: 0.041983 segundos
+Tempo médio por iteração: 0.00000002674076433121 segundos
+
+Pagina:158
+Tempo total: 0.033555 segundos
+Tempo médio por iteração: 0.00000002123734177215 segundos
+
+Pagina:159
+Tempo total: 0.035867 segundos
+Tempo médio por iteração: 0.00000002255786163522 segundos
+
+Pagina:160
+Tempo total: 0.032857 segundos
+Tempo médio por iteração: 0.00000002053562500000 segundos
+
+Pagina:161
+Tempo total: 0.043161 segundos
+Tempo médio por iteração: 0.00000002680807453416 segundos
+
+Pagina:162
+Tempo total: 0.029933 segundos
+Tempo médio por iteração: 0.00000001847716049383 segundos
+
+Pagina:163
+Tempo total: 0.030068 segundos
+Tempo médio por iteração: 0.00000001844662576687 segundos
+
+Pagina:164
+Tempo total: 0.039052 segundos
+Tempo médio por iteração: 0.00000002381219512195 segundos
+
+Pagina:165
+Tempo total: 0.033958 segundos
+Tempo médio por iteração: 0.00000002058060606061 segundos
+
+Pagina:166
+Tempo total: 0.032511 segundos
+Tempo médio por iteração: 0.00000001958493975904 segundos
+
+Pagina:167
+Tempo total: 0.040965 segundos
+Tempo médio por iteração: 0.00000002452994011976 segundos
+
+Pagina:168
+Tempo total: 0.045577 segundos
+Tempo médio por iteração: 0.00000002712916666667 segundos
+
+Pagina:169
+Tempo total: 0.055682 segundos
+Tempo médio por iteração: 0.00000003294792899408 segundos
+
+Pagina:170
+Tempo total: 0.047238 segundos
+Tempo médio por iteração: 0.00000002778705882353 segundos
+
+Pagina:171
+Tempo total: 0.050786 segundos
+Tempo médio por iteração: 0.00000002969941520468 segundos
+
+Pagina:172
+Tempo total: 0.034266 segundos
+Tempo médio por iteração: 0.00000001992209302326 segundos
+
+Pagina:173
+Tempo total: 0.040032 segundos
+Tempo médio por iteração: 0.00000002313988439306 segundos
+
+Pagina:174
+Tempo total: 0.044612 segundos
+Tempo médio por iteração: 0.00000002563908045977 segundos
+
+Pagina:175
+Tempo total: 0.026130 segundos
+Tempo médio por iteração: 0.00000001493142857143 segundos
+
+Pagina:176
+Tempo total: 0.030133 segundos
+Tempo médio por iteração: 0.00000001712102272727 segundos
+
+Pagina:177
+Tempo total: 0.029917 segundos
+Tempo médio por iteração: 0.00000001690225988701 segundos
+
+Pagina:178
+Tempo total: 0.051459 segundos
+Tempo médio por iteração: 0.00000002890955056180 segundos
+
+Pagina:179
+Tempo total: 0.043044 segundos
+Tempo médio por iteração: 0.00000002404692737430 segundos
+
+Pagina:180
+Tempo total: 0.042729 segundos
+Tempo médio por iteração: 0.00000002373833333333 segundos
+
+Pagina:181
+Tempo total: 0.037870 segundos
+Tempo médio por iteração: 0.00000002092265193370 segundos
+
+Pagina:182
+Tempo total: 0.034931 segundos
+Tempo médio por iteração: 0.00000001919285714286 segundos
+
+Pagina:183
+Tempo total: 0.049091 segundos
+Tempo médio por iteração: 0.00000002682568306011 segundos
+
+Pagina:184
+Tempo total: 0.056431 segundos
+Tempo médio por iteração: 0.00000003066902173913 segundos
+
+Pagina:185
+Tempo total: 0.056588 segundos
+Tempo médio por iteração: 0.00000003058810810811 segundos
+
+Pagina:186
+Tempo total: 0.050801 segundos
+Tempo médio por iteração: 0.00000002731236559140 segundos
+
+Pagina:187
+Tempo total: 0.043539 segundos
+Tempo médio por iteração: 0.00000002328288770053 segundos
+
+Pagina:188
+Tempo total: 0.057724 segundos
+Tempo médio por iteração: 0.00000003070425531915 segundos
+
+Pagina:189
+Tempo total: 0.057156 segundos
+Tempo médio por iteração: 0.00000003024126984127 segundos
+
+Pagina:190
+Tempo total: 0.051105 segundos
+Tempo médio por iteração: 0.00000002689736842105 segundos
+
+Pagina:191
+Tempo total: 0.058690 segundos
+Tempo médio por iteração: 0.00000003072774869110 segundos
+
+Pagina:192
+Tempo total: 0.031358 segundos
+Tempo médio por iteração: 0.00000001633229166667 segundos
+
+Pagina:193
+Tempo total: 0.057264 segundos
+Tempo médio por iteração: 0.00000002967046632124 segundos
+
+Pagina:194
+Tempo total: 0.056686 segundos
+Tempo médio por iteração: 0.00000002921958762887 segundos
+
+Pagina:195
+Tempo total: 0.057987 segundos
+Tempo médio por iteração: 0.00000002973692307692 segundos
+
+Pagina:196
+Tempo total: 0.056501 segundos
+Tempo médio por iteração: 0.00000002882704081633 segundos
+
+Pagina:197
+Tempo total: 0.045976 segundos
+Tempo médio por iteração: 0.00000002333807106599 segundos
+
+Pagina:198
+Tempo total: 0.061950 segundos
+Tempo médio por iteração: 0.00000003128787878788 segundos
+
+Pagina:199
+Tempo total: 0.038312 segundos
+Tempo médio por iteração: 0.00000001925226130653 segundos
+
+Pagina:200
+Tempo total: 0.033042 segundos
+Tempo médio por iteração: 0.00000001652100000000 segundos
+
+Pagina:201
+Tempo total: 0.037291 segundos
+Tempo médio por iteração: 0.00000001855273631841 segundos
+
+Pagina:202
+Tempo total: 0.035320 segundos
+Tempo médio por iteração: 0.00000001748514851485 segundos
+
+Pagina:203
+Tempo total: 0.060939 segundos
+Tempo médio por iteração: 0.00000003001921182266 segundos
+
+Pagina:204
+Tempo total: 0.051128 segundos
+Tempo médio por iteração: 0.00000002506274509804 segundos
+
+Pagina:205
+Tempo total: 0.053902 segundos
+Tempo médio por iteração: 0.00000002629365853659 segundos
+
+Pagina:206
+Tempo total: 0.039325 segundos
+Tempo médio por iteração: 0.00000001908980582524 segundos
+
+Pagina:207
+Tempo total: 0.048731 segundos
+Tempo médio por iteração: 0.00000002354154589372 segundos
+
+Pagina:208
+Tempo total: 0.056887 segundos
+Tempo médio por iteração: 0.00000002734951923077 segundos
+
+Pagina:209
+Tempo total: 0.048059 segundos
+Tempo médio por iteração: 0.00000002299473684211 segundos
+
+Pagina:210
+Tempo total: 0.055738 segundos
+Tempo médio por iteração: 0.00000002654190476190 segundos
+
+Pagina:211
+Tempo total: 0.048158 segundos
+Tempo médio por iteração: 0.00000002282369668246 segundos
+
+Pagina:212
+Tempo total: 0.040630 segundos
+Tempo médio por iteração: 0.00000001916509433962 segundos
+
+Pagina:213
+Tempo total: 0.050859 segundos
+Tempo médio por iteração: 0.00000002387746478873 segundos
+
+Pagina:214
+Tempo total: 0.046238 segundos
+Tempo médio por iteração: 0.00000002160654205607 segundos
+
+Pagina:215
+Tempo total: 0.054953 segundos
+Tempo médio por iteração: 0.00000002555953488372 segundos
+
+Pagina:216
+Tempo total: 0.042900 segundos
+Tempo médio por iteração: 0.00000001986111111111 segundos
+
+Pagina:217
+Tempo total: 0.032955 segundos
+Tempo médio por iteração: 0.00000001518663594470 segundos
+
+Pagina:218
+Tempo total: 0.025022 segundos
+Tempo médio por iteração: 0.00000001147798165138 segundos
+
+Pagina:219
+Tempo total: 0.031295 segundos
+Tempo médio por iteração: 0.00000001428995433790 segundos
+
+Pagina:220
+Tempo total: 0.027441 segundos
+Tempo médio por iteração: 0.00000001247318181818 segundos
+
+Pagina:221
+Tempo total: 0.029003 segundos
+Tempo médio por iteração: 0.00000001312352941176 segundos
+
+Pagina:222
+Tempo total: 0.037756 segundos
+Tempo médio por iteração: 0.00000001700720720721 segundos
+
+Pagina:223
+Tempo total: 0.054181 segundos
+Tempo médio por iteração: 0.00000002429641255605 segundos
+
+Pagina:224
+Tempo total: 0.052100 segundos
+Tempo médio por iteração: 0.00000002325892857143 segundos
+
+Pagina:225
+Tempo total: 0.056705 segundos
+Tempo médio por iteração: 0.00000002520222222222 segundos
+
+Pagina:226
+Tempo total: 0.056562 segundos
+Tempo médio por iteração: 0.00000002502743362832 segundos
+
+Pagina:227
+Tempo total: 0.058219 segundos
+Tempo médio por iteração: 0.00000002564713656388 segundos
+
+Pagina:228
+Tempo total: 0.052958 segundos
+Tempo médio por iteração: 0.00000002322719298246 segundos
+
+Pagina:229
+Tempo total: 0.050687 segundos
+Tempo médio por iteração: 0.00000002213406113537 segundos
+
+Pagina:230
+Tempo total: 0.056238 segundos
+Tempo médio por iteração: 0.00000002445130434783 segundos
+
+Pagina:231
+Tempo total: 0.055706 segundos
+Tempo médio por iteração: 0.00000002411515151515 segundos
+
+Pagina:232
+Tempo total: 0.065409 segundos
+Tempo médio por iteração: 0.00000002819353448276 segundos
+
+Pagina:233
+Tempo total: 0.056470 segundos
+Tempo médio por iteração: 0.00000002423605150215 segundos
+
+Pagina:234
+Tempo total: 0.045768 segundos
+Tempo médio por iteração: 0.00000001955897435897 segundos
+
+Pagina:235
+Tempo total: 0.048174 segundos
+Tempo médio por iteração: 0.00000002049957446809 segundos
+
+Pagina:236
+Tempo total: 0.033351 segundos
+Tempo médio por iteração: 0.00000001413177966102 segundos
+
+Pagina:237
+Tempo total: 0.032511 segundos
+Tempo médio por iteração: 0.00000001371772151899 segundos
+
+Pagina:238
+Tempo total: 0.034365 segundos
+Tempo médio por iteração: 0.00000001443907563025 segundos
+
+Pagina:239
+Tempo total: 0.043065 segundos
+Tempo médio por iteração: 0.00000001801882845188 segundos
+
+Pagina:240
+Tempo total: 0.033072 segundos
+Tempo médio por iteração: 0.00000001378000000000 segundos
+
+Pagina:241
+Tempo total: 0.027890 segundos
+Tempo médio por iteração: 0.00000001157261410788 segundos
+
+Pagina:242
+Tempo total: 0.041420 segundos
+Tempo médio por iteração: 0.00000001711570247934 segundos
+
+Pagina:243
+Tempo total: 0.054016 segundos
+Tempo médio por iteração: 0.00000002222880658436 segundos
+
+Pagina:244
+Tempo total: 0.049275 segundos
+Tempo médio por iteração: 0.00000002019467213115 segundos
+
+Pagina:245
+Tempo total: 0.043384 segundos
+Tempo médio por iteração: 0.00000001770775510204 segundos
+
+Pagina:246
+Tempo total: 0.035318 segundos
+Tempo médio por iteração: 0.00000001435691056911 segundos
+
+Pagina:247
+Tempo total: 0.038495 segundos
+Tempo médio por iteração: 0.00000001558502024291 segundos
+
+Pagina:248
+Tempo total: 0.036811 segundos
+Tempo médio por iteração: 0.00000001484314516129 segundos
+
+Pagina:249
+Tempo total: 0.046746 segundos
+Tempo médio por iteração: 0.00000001877349397590 segundos
+
+Pagina:250
+Tempo total: 0.056067 segundos
+Tempo médio por iteração: 0.00000002242680000000 segundos
+
+Pagina:251
+Tempo total: 0.041676 segundos
+Tempo médio por iteração: 0.00000001660398406375 segundos
+
+Pagina:252
+Tempo total: 0.066401 segundos
+Tempo médio por iteração: 0.00000002634960317460 segundos
+
+Pagina:253
+Tempo total: 0.048773 segundos
+Tempo médio por iteração: 0.00000001927786561265 segundos
+
+Pagina:254
+Tempo total: 0.029531 segundos
+Tempo médio por iteração: 0.00000001162637795276 segundos
+
+Pagina:255
+Tempo total: 0.029001 segundos
+Tempo médio por iteração: 0.00000001137294117647 segundos
+
+Pagina:256
+Tempo total: 0.047393 segundos
+Tempo médio por iteração: 0.00000001851289062500 segundos
+
+Pagina:257
+Tempo total: 0.058513 segundos
+Tempo médio por iteração: 0.00000002276770428016 segundos
+
+Pagina:258
+Tempo total: 0.074788 segundos
+Tempo médio por iteração: 0.00000002898759689922 segundos
+
+Pagina:259
+Tempo total: 0.074015 segundos
+Tempo médio por iteração: 0.00000002857722007722 segundos
+
+Pagina:260
+Tempo total: 0.053437 segundos
+Tempo médio por iteração: 0.00000002055269230769 segundos
+
+Pagina:261
+Tempo total: 0.065932 segundos
+Tempo médio por iteração: 0.00000002526130268199 segundos
+
+Pagina:262
+Tempo total: 0.045674 segundos
+Tempo médio por iteração: 0.00000001743282442748 segundos
+
+Pagina:263
+Tempo total: 0.035262 segundos
+Tempo médio por iteração: 0.00000001340760456274 segundos
+
+Pagina:264
+Tempo total: 0.039843 segundos
+Tempo médio por iteração: 0.00000001509204545455 segundos
+
+Pagina:265
+Tempo total: 0.052749 segundos
+Tempo médio por iteração: 0.00000001990528301887 segundos
+
+Pagina:266
+Tempo total: 0.071264 segundos
+Tempo médio por iteração: 0.00000002679097744361 segundos
+
+Pagina:267
+Tempo total: 0.053689 segundos
+Tempo médio por iteração: 0.00000002010823970037 segundos
+
+Pagina:268
+Tempo total: 0.036882 segundos
+Tempo médio por iteração: 0.00000001376194029851 segundos
+
+Pagina:269
+Tempo total: 0.043405 segundos
+Tempo médio por iteração: 0.00000001613568773234 segundos
+
+Pagina:270
+Tempo total: 0.056122 segundos
+Tempo médio por iteração: 0.00000002078592592593 segundos
+
+Pagina:271
+Tempo total: 0.043436 segundos
+Tempo médio por iteração: 0.00000001602804428044 segundos
+
+Pagina:272
+Tempo total: 0.051829 segundos
+Tempo médio por iteração: 0.00000001905477941176 segundos
+
+Pagina:273
+Tempo total: 0.040822 segundos
+Tempo médio por iteração: 0.00000001495311355311 segundos
+
+Pagina:274
+Tempo total: 0.047967 segundos
+Tempo médio por iteração: 0.00000001750620437956 segundos
+
+Pagina:275
+Tempo total: 0.048031 segundos
+Tempo médio por iteração: 0.00000001746581818182 segundos
+
+Pagina:276
+Tempo total: 0.060080 segundos
+Tempo médio por iteração: 0.00000002176811594203 segundos
+
+Pagina:277
+Tempo total: 0.062469 segundos
+Tempo médio por iteração: 0.00000002255198555957 segundos
+
+Pagina:278
+Tempo total: 0.059175 segundos
+Tempo médio por iteração: 0.00000002128597122302 segundos
+
+Pagina:279
+Tempo total: 0.066726 segundos
+Tempo médio por iteração: 0.00000002391612903226 segundos
+
+Pagina:280
+Tempo total: 0.061299 segundos
+Tempo médio por iteração: 0.00000002189250000000 segundos
+
+Pagina:281
+Tempo total: 0.059381 segundos
+Tempo médio por iteração: 0.00000002113202846975 segundos
+
+Pagina:282
+Tempo total: 0.049669 segundos
+Tempo médio por iteração: 0.00000001761312056738 segundos
+
+Pagina:283
+Tempo total: 0.045973 segundos
+Tempo médio por iteração: 0.00000001624487632509 segundos
+
+Pagina:284
+Tempo total: 0.040504 segundos
+Tempo médio por iteração: 0.00000001426197183099 segundos
+
+Pagina:285
+Tempo total: 0.054617 segundos
+Tempo médio por iteração: 0.00000001916385964912 segundos
+
+Pagina:286
+Tempo total: 0.053778 segundos
+Tempo médio por iteração: 0.00000001880349650350 segundos
+
+Pagina:287
+Tempo total: 0.060389 segundos
+Tempo médio por iteração: 0.00000002104146341463 segundos
+
+Pagina:288
+Tempo total: 0.052259 segundos
+Tempo médio por iteração: 0.00000001814548611111 segundos
+
+Pagina:289
+Tempo total: 0.068965 segundos
+Tempo médio por iteração: 0.00000002386332179931 segundos
+
+Pagina:290
+Tempo total: 0.036197 segundos
+Tempo médio por iteração: 0.00000001248172413793 segundos
+
+Pagina:291
+Tempo total: 0.065947 segundos
+Tempo médio por iteração: 0.00000002266219931271 segundos
+
+Pagina:292
+Tempo total: 0.063550 segundos
+Tempo médio por iteração: 0.00000002176369863014 segundos
+
+Pagina:293
+Tempo total: 0.062506 segundos
+Tempo médio por iteração: 0.00000002133310580205 segundos
+
+Pagina:294
+Tempo total: 0.081915 segundos
+Tempo médio por iteração: 0.00000002786224489796 segundos
+
+Pagina:295
+Tempo total: 0.069567 segundos
+Tempo médio por iteração: 0.00000002358203389831 segundos
+
+Pagina:296
+Tempo total: 0.040017 segundos
+Tempo médio por iteração: 0.00000001351925675676 segundos
+
+Pagina:297
+Tempo total: 0.042530 segundos
+Tempo médio por iteração: 0.00000001431986531987 segundos
+
+Pagina:298
+Tempo total: 0.061843 segundos
+Tempo médio por iteração: 0.00000002075268456376 segundos
+
+Pagina:299
+Tempo total: 0.081270 segundos
+Tempo médio por iteração: 0.00000002718060200669 segundos
+
+Pagina:300
+Tempo total: 0.047208 segundos
+Tempo médio por iteração: 0.00000001573600000000 segundos
+
+Pagina:301
+Tempo total: 0.036345 segundos
+Tempo médio por iteração: 0.00000001207475083056 segundos
+
+Pagina:302
+Tempo total: 0.045789 segundos
+Tempo médio por iteração: 0.00000001516192052980 segundos
+
+Pagina:303
+Tempo total: 0.067045 segundos
+Tempo médio por iteração: 0.00000002212706270627 segundos
+
+Pagina:304
+Tempo total: 0.073691 segundos
+Tempo médio por iteração: 0.00000002424046052632 segundos
+
+Pagina:305
+Tempo total: 0.073914 segundos
+Tempo médio por iteração: 0.00000002423409836066 segundos
+
+Pagina:306
+Tempo total: 0.078982 segundos
+Tempo médio por iteração: 0.00000002581111111111 segundos
+
+Pagina:307
+Tempo total: 0.063624 segundos
+Tempo médio por iteração: 0.00000002072442996743 segundos
+
+Pagina:308
+Tempo total: 0.072324 segundos
+Tempo médio por iteração: 0.00000002348181818182 segundos
+
+Pagina:309
+Tempo total: 0.055066 segundos
+Tempo médio por iteração: 0.00000001782071197411 segundos
+
+Pagina:310
+Tempo total: 0.043003 segundos
+Tempo médio por iteração: 0.00000001387193548387 segundos
+
+Pagina:311
+Tempo total: 0.063924 segundos
+Tempo médio por iteração: 0.00000002055434083601 segundos
+
+Pagina:312
+Tempo total: 0.097402 segundos
+Tempo médio por iteração: 0.00000003121858974359 segundos
+
+Pagina:313
+Tempo total: 0.086322 segundos
+Tempo médio por iteração: 0.00000002757891373802 segundos
+
+Pagina:314
+Tempo total: 0.065661 segundos
+Tempo médio por iteração: 0.00000002091114649682 segundos
+
+Pagina:315
+Tempo total: 0.038959 segundos
+Tempo médio por iteração: 0.00000001236793650794 segundos
+
+Pagina:316
+Tempo total: 0.059592 segundos
+Tempo médio por iteração: 0.00000001885822784810 segundos
+
+Pagina:317
+Tempo total: 0.096545 segundos
+Tempo médio por iteração: 0.00000003045583596215 segundos
+
+Pagina:318
+Tempo total: 0.043700 segundos
+Tempo médio por iteração: 0.00000001374213836478 segundos
+
+Pagina:319
+Tempo total: 0.070291 segundos
+Tempo médio por iteração: 0.00000002203479623824 segundos
+
+Pagina:320
+Tempo total: 0.089017 segundos
+Tempo médio por iteração: 0.00000002781781250000 segundos
+
+Pagina:321
+Tempo total: 0.051245 segundos
+Tempo médio por iteração: 0.00000001596417445483 segundos
+
+Pagina:322
+Tempo total: 0.040699 segundos
+Tempo médio por iteração: 0.00000001263944099379 segundos
+
+Pagina:323
+Tempo total: 0.057560 segundos
+Tempo médio por iteração: 0.00000001782043343653 segundos
+
+Pagina:324
+Tempo total: 0.069991 segundos
+Tempo médio por iteração: 0.00000002160216049383 segundos
+
+Pagina:325
+Tempo total: 0.075287 segundos
+Tempo médio por iteração: 0.00000002316523076923 segundos
+
+Pagina:326
+Tempo total: 0.065450 segundos
+Tempo médio por iteração: 0.00000002007668711656 segundos
+
+Pagina:327
+Tempo total: 0.058382 segundos
+Tempo médio por iteração: 0.00000001785382262997 segundos
+
+Pagina:328
+Tempo total: 0.066049 segundos
+Tempo médio por iteração: 0.00000002013689024390 segundos
+
+Pagina:329
+Tempo total: 0.060662 segundos
+Tempo médio por iteração: 0.00000001843829787234 segundos
+
+Pagina:330
+Tempo total: 0.049384 segundos
+Tempo médio por iteração: 0.00000001496484848485 segundos
+
+Pagina:331
+Tempo total: 0.058295 segundos
+Tempo médio por iteração: 0.00000001761178247734 segundos
+
+Pagina:332
+Tempo total: 0.076290 segundos
+Tempo médio por iteração: 0.00000002297891566265 segundos
+
+Pagina:333
+Tempo total: 0.057069 segundos
+Tempo médio por iteração: 0.00000001713783783784 segundos
+
+Pagina:334
+Tempo total: 0.074102 segundos
+Tempo médio por iteração: 0.00000002218622754491 segundos
+
+Pagina:335
+Tempo total: 0.072509 segundos
+Tempo médio por iteração: 0.00000002164447761194 segundos
+
+Pagina:336
+Tempo total: 0.059228 segundos
+Tempo médio por iteração: 0.00000001762738095238 segundos
+
+Pagina:337
+Tempo total: 0.049283 segundos
+Tempo médio por iteração: 0.00000001462403560831 segundos
+
+Pagina:338
+Tempo total: 0.064872 segundos
+Tempo médio por iteração: 0.00000001919289940828 segundos
+
+Pagina:339
+Tempo total: 0.076103 segundos
+Tempo médio por iteração: 0.00000002244926253687 segundos
+
+Pagina:340
+Tempo total: 0.070963 segundos
+Tempo médio por iteração: 0.00000002087147058824 segundos
+
+Pagina:341
+Tempo total: 0.058949 segundos
+Tempo médio por iteração: 0.00000001728709677419 segundos
+
+Pagina:342
+Tempo total: 0.088693 segundos
+Tempo médio por iteração: 0.00000002593362573099 segundos
+
+Pagina:343
+Tempo total: 0.081033 segundos
+Tempo médio por iteração: 0.00000002362478134111 segundos
+
+Pagina:344
+Tempo total: 0.075196 segundos
+Tempo médio por iteração: 0.00000002185930232558 segundos
+
+Pagina:345
+Tempo total: 0.081758 segundos
+Tempo médio por iteração: 0.00000002369797101449 segundos
+
+Pagina:346
+Tempo total: 0.097226 segundos
+Tempo médio por iteração: 0.00000002810000000000 segundos
+
+Pagina:347
+Tempo total: 0.084574 segundos
+Tempo médio por iteração: 0.00000002437291066282 segundos
+
+Pagina:348
+Tempo total: 0.054157 segundos
+Tempo médio por iteração: 0.00000001556235632184 segundos
+
+Pagina:349
+Tempo total: 0.083412 segundos
+Tempo médio por iteração: 0.00000002390028653295 segundos
+
+Pagina:350
+Tempo total: 0.054267 segundos
+Tempo médio por iteração: 0.00000001550485714286 segundos
+
+Pagina:351
+Tempo total: 0.053671 segundos
+Tempo médio por iteração: 0.00000001529088319088 segundos
+
+Pagina:352
+Tempo total: 0.057173 segundos
+Tempo médio por iteração: 0.00000001624232954545 segundos
+
+Pagina:353
+Tempo total: 0.085640 segundos
+Tempo médio por iteração: 0.00000002426062322946 segundos
+
+Pagina:354
+Tempo total: 0.046730 segundos
+Tempo médio por iteração: 0.00000001320056497175 segundos
+
+Pagina:355
+Tempo total: 0.054064 segundos
+Tempo médio por iteração: 0.00000001522929577465 segundos
+
+Pagina:356
+Tempo total: 0.096927 segundos
+Tempo médio por iteração: 0.00000002722668539326 segundos
+
+Pagina:357
+Tempo total: 0.077268 segundos
+Tempo médio por iteração: 0.00000002164369747899 segundos
+
+Pagina:358
+Tempo total: 0.064526 segundos
+Tempo médio por iteração: 0.00000001802402234637 segundos
+
+Pagina:359
+Tempo total: 0.069882 segundos
+Tempo médio por iteração: 0.00000001946573816156 segundos
+
+Pagina:360
+Tempo total: 0.074797 segundos
+Tempo médio por iteração: 0.00000002077694444444 segundos
+
+Pagina:361
+Tempo total: 0.049303 segundos
+Tempo médio por iteração: 0.00000001365734072022 segundos
+
+Pagina:362
+Tempo total: 0.052101 segundos
+Tempo médio por iteração: 0.00000001439254143646 segundos
+
+Pagina:363
+Tempo total: 0.054265 segundos
+Tempo médio por iteração: 0.00000001494903581267 segundos
+
+Pagina:364
+Tempo total: 0.101259 segundos
+Tempo médio por iteração: 0.00000002781840659341 segundos
+
+Pagina:365
+Tempo total: 0.068028 segundos
+Tempo médio por iteração: 0.00000001863780821918 segundos
+
+Pagina:366
+Tempo total: 0.088530 segundos
+Tempo médio por iteração: 0.00000002418852459016 segundos
+
+Pagina:367
+Tempo total: 0.069425 segundos
+Tempo médio por iteração: 0.00000001891689373297 segundos
+
+Pagina:368
+Tempo total: 0.053709 segundos
+Tempo médio por iteração: 0.00000001459483695652 segundos
+
+Pagina:369
+Tempo total: 0.070989 segundos
+Tempo médio por iteração: 0.00000001923821138211 segundos
+
+Pagina:370
+Tempo total: 0.069693 segundos
+Tempo médio por iteração: 0.00000001883594594595 segundos
+
+Pagina:371
+Tempo total: 0.054219 segundos
+Tempo médio por iteração: 0.00000001461428571429 segundos
+
+Pagina:372
+Tempo total: 0.066350 segundos
+Tempo médio por iteração: 0.00000001783602150538 segundos
+
+Pagina:373
+Tempo total: 0.074590 segundos
+Tempo médio por iteração: 0.00000001999731903485 segundos
+
+Pagina:374
+Tempo total: 0.074826 segundos
+Tempo médio por iteração: 0.00000002000695187166 segundos
+
+Pagina:375
+Tempo total: 0.068152 segundos
+Tempo médio por iteração: 0.00000001817386666667 segundos
+
+Pagina:376
+Tempo total: 0.055624 segundos
+Tempo médio por iteração: 0.00000001479361702128 segundos
+
+Pagina:377
+Tempo total: 0.049069 segundos
+Tempo médio por iteração: 0.00000001301564986737 segundos
+
+Pagina:378
+Tempo total: 0.062274 segundos
+Tempo médio por iteração: 0.00000001647460317460 segundos
+
+Pagina:379
+Tempo total: 0.056636 segundos
+Tempo médio por iteração: 0.00000001494353562005 segundos
+
+Pagina:380
+Tempo total: 0.076908 segundos
+Tempo médio por iteração: 0.00000002023894736842 segundos
+
+Pagina:381
+Tempo total: 0.069084 segundos
+Tempo médio por iteração: 0.00000001813228346457 segundos
+
+Pagina:382
+Tempo total: 0.051700 segundos
+Tempo médio por iteração: 0.00000001353403141361 segundos
+
+Pagina:383
+Tempo total: 0.068195 segundos
+Tempo médio por iteração: 0.00000001780548302872 segundos
+
+Pagina:384
+Tempo total: 0.072816 segundos
+Tempo médio por iteração: 0.00000001896250000000 segundos
+
+Pagina:385
+Tempo total: 0.055422 segundos
+Tempo médio por iteração: 0.00000001439532467532 segundos
+
+Pagina:386
+Tempo total: 0.060500 segundos
+Tempo médio por iteração: 0.00000001567357512953 segundos
+
+Pagina:387
+Tempo total: 0.058183 segundos
+Tempo médio por iteração: 0.00000001503436692506 segundos
+
+Pagina:388
+Tempo total: 0.068385 segundos
+Tempo médio por iteração: 0.00000001762500000000 segundos
+
+Pagina:389
+Tempo total: 0.085026 segundos
+Tempo médio por iteração: 0.00000002185758354756 segundos
+
+Pagina:390
+Tempo total: 0.061325 segundos
+Tempo médio por iteração: 0.00000001572435897436 segundos
+
+Pagina:391
+Tempo total: 0.079284 segundos
+Tempo médio por iteração: 0.00000002027723785166 segundos
+
+Pagina:392
+Tempo total: 0.067091 segundos
+Tempo médio por iteração: 0.00000001711505102041 segundos
+
+Pagina:393
+Tempo total: 0.074593 segundos
+Tempo médio por iteração: 0.00000001898040712468 segundos
+
+Pagina:394
+Tempo total: 0.103965 segundos
+Tempo médio por iteração: 0.00000002638705583756 segundos
+
+Pagina:395
+Tempo total: 0.079352 segundos
+Tempo médio por iteração: 0.00000002008911392405 segundos
+
+Pagina:396
+Tempo total: 0.067060 segundos
+Tempo médio por iteração: 0.00000001693434343434 segundos
+
+Pagina:397
+Tempo total: 0.095294 segundos
+Tempo médio por iteração: 0.00000002400352644836 segundos
+
+Pagina:398
+Tempo total: 0.066515 segundos
+Tempo médio por iteração: 0.00000001671231155779 segundos
+
+Pagina:399
+Tempo total: 0.071565 segundos
+Tempo médio por iteração: 0.00000001793609022556 segundos
+
+Pagina:400
+Tempo total: 0.072998 segundos
+Tempo médio por iteração: 0.00000001824950000000 segundos
+
+Pagina:401
+Tempo total: 0.079855 segundos
+Tempo médio por iteração: 0.00000001991396508728 segundos
+
+Pagina:402
+Tempo total: 0.061874 segundos
+Tempo médio por iteração: 0.00000001539154228856 segundos
+
+Pagina:403
+Tempo total: 0.078994 segundos
+Tempo médio por iteração: 0.00000001960148883375 segundos
+
+Pagina:404
+Tempo total: 0.086433 segundos
+Tempo médio por iteração: 0.00000002139430693069 segundos
+
+Pagina:405
+Tempo total: 0.097033 segundos
+Tempo médio por iteração: 0.00000002395876543210 segundos
+
+Pagina:406
+Tempo total: 0.077389 segundos
+Tempo médio por iteração: 0.00000001906133004926 segundos
+
+Pagina:407
+Tempo total: 0.057780 segundos
+Tempo médio por iteração: 0.00000001419656019656 segundos
+
+Pagina:408
+Tempo total: 0.056859 segundos
+Tempo médio por iteração: 0.00000001393602941176 segundos
+
+Pagina:409
+Tempo total: 0.063417 segundos
+Tempo médio por iteração: 0.00000001550537897311 segundos
+
+Pagina:410
+Tempo total: 0.067615 segundos
+Tempo médio por iteração: 0.00000001649146341463 segundos
+
+Pagina:411
+Tempo total: 0.057157 segundos
+Tempo médio por iteração: 0.00000001390681265207 segundos
+
+Pagina:412
+Tempo total: 0.067303 segundos
+Tempo médio por iteração: 0.00000001633567961165 segundos
+
+Pagina:413
+Tempo total: 0.058797 segundos
+Tempo médio por iteração: 0.00000001423656174334 segundos
+
+Pagina:414
+Tempo total: 0.058023 segundos
+Tempo médio por iteração: 0.00000001401521739130 segundos
+
+Pagina:415
+Tempo total: 0.064169 segundos
+Tempo médio por iteração: 0.00000001546240963855 segundos
+
+Pagina:416
+Tempo total: 0.073770 segundos
+Tempo médio por iteração: 0.00000001773317307692 segundos
+
+Pagina:417
+Tempo total: 0.068771 segundos
+Tempo médio por iteração: 0.00000001649184652278 segundos
+
+Pagina:418
+Tempo total: 0.059717 segundos
+Tempo médio por iteração: 0.00000001428636363636 segundos
+
+Pagina:419
+Tempo total: 0.073457 segundos
+Tempo médio por iteração: 0.00000001753150357995 segundos
+
+Pagina:420
+Tempo total: 0.071159 segundos
+Tempo médio por iteração: 0.00000001694261904762 segundos
+
+Pagina:421
+Tempo total: 0.071361 segundos
+Tempo médio por iteração: 0.00000001695035629454 segundos
+
+Pagina:422
+Tempo total: 0.085764 segundos
+Tempo médio por iteração: 0.00000002032322274882 segundos
+
+Pagina:423
+Tempo total: 0.074965 segundos
+Tempo médio por iteração: 0.00000001772222222222 segundos
+
+Pagina:424
+Tempo total: 0.069374 segundos
+Tempo médio por iteração: 0.00000001636179245283 segundos
+
+Pagina:425
+Tempo total: 0.060037 segundos
+Tempo médio por iteração: 0.00000001412635294118 segundos
+
+Pagina:426
+Tempo total: 0.059645 segundos
+Tempo médio por iteração: 0.00000001400117370892 segundos
+
+Pagina:427
+Tempo total: 0.089204 segundos
+Tempo médio por iteração: 0.00000002089086651054 segundos
+
+Pagina:428
+Tempo total: 0.093790 segundos
+Tempo médio por iteração: 0.00000002191355140187 segundos
+
+Pagina:429
+Tempo total: 0.068366 segundos
+Tempo médio por iteração: 0.00000001593613053613 segundos
+
+Pagina:430
+Tempo total: 0.059044 segundos
+Tempo médio por iteração: 0.00000001373116279070 segundos
+
+Pagina:431
+Tempo total: 0.065092 segundos
+Tempo médio por iteração: 0.00000001510255220418 segundos
+
+Pagina:432
+Tempo total: 0.085843 segundos
+Tempo médio por iteração: 0.00000001987106481481 segundos
+
+Pagina:433
+Tempo total: 0.060304 segundos
+Tempo médio por iteração: 0.00000001392702078522 segundos
+
+Pagina:434
+Tempo total: 0.064258 segundos
+Tempo médio por iteração: 0.00000001480599078341 segundos
+
+Pagina:435
+Tempo total: 0.060368 segundos
+Tempo médio por iteração: 0.00000001387770114943 segundos
+
+Pagina:436
+Tempo total: 0.063322 segundos
+Tempo médio por iteração: 0.00000001452339449541 segundos
+
+Pagina:437
+Tempo total: 0.087441 segundos
+Tempo médio por iteração: 0.00000002000938215103 segundos
+
+Pagina:438
+Tempo total: 0.110985 segundos
+Tempo médio por iteração: 0.00000002533904109589 segundos
+
+Pagina:439
+Tempo total: 0.091310 segundos
+Tempo médio por iteração: 0.00000002079954441913 segundos
+
+Pagina:440
+Tempo total: 0.074103 segundos
+Tempo médio por iteração: 0.00000001684159090909 segundos
+
+Pagina:441
+Tempo total: 0.078786 segundos
+Tempo médio por iteração: 0.00000001786530612245 segundos
+
+Pagina:442
+Tempo total: 0.073947 segundos
+Tempo médio por iteração: 0.00000001673009049774 segundos
+
+Pagina:443
+Tempo total: 0.070476 segundos
+Tempo médio por iteração: 0.00000001590880361174 segundos
+
+Pagina:444
+Tempo total: 0.094784 segundos
+Tempo médio por iteração: 0.00000002134774774775 segundos
+
+Pagina:445
+Tempo total: 0.065577 segundos
+Tempo médio por iteração: 0.00000001473640449438 segundos
+
+Pagina:446
+Tempo total: 0.070544 segundos
+Tempo médio por iteração: 0.00000001581704035874 segundos
+
+Pagina:447
+Tempo total: 0.075980 segundos
+Tempo médio por iteração: 0.00000001699776286353 segundos
+
+Pagina:448
+Tempo total: 0.070775 segundos
+Tempo médio por iteração: 0.00000001579799107143 segundos
+
+Pagina:449
+Tempo total: 0.065466 segundos
+Tempo médio por iteração: 0.00000001458040089087 segundos
+
+Pagina:450
+Tempo total: 0.071512 segundos
+Tempo médio por iteração: 0.00000001589155555556 segundos
+
+Pagina:451
+Tempo total: 0.106263 segundos
+Tempo médio por iteração: 0.00000002356164079823 segundos
+
+Pagina:452
+Tempo total: 0.074951 segundos
+Tempo médio por iteração: 0.00000001658207964602 segundos
+
+Pagina:453
+Tempo total: 0.063350 segundos
+Tempo médio por iteração: 0.00000001398454746137 segundos
+
+Pagina:454
+Tempo total: 0.076888 segundos
+Tempo médio por iteração: 0.00000001693568281938 segundos
+
+Pagina:455
+Tempo total: 0.075491 segundos
+Tempo médio por iteração: 0.00000001659142857143 segundos
+
+Pagina:456
+Tempo total: 0.089239 segundos
+Tempo médio por iteração: 0.00000001956995614035 segundos
+
+Pagina:457
+Tempo total: 0.112643 segundos
+Tempo médio por iteração: 0.00000002464835886214 segundos
+
+Pagina:458
+Tempo total: 0.085278 segundos
+Tempo médio por iteração: 0.00000001861965065502 segundos
+
+Pagina:459
+Tempo total: 0.113236 segundos
+Tempo médio por iteração: 0.00000002467015250545 segundos
+
+Pagina:460
+Tempo total: 0.087135 segundos
+Tempo médio por iteração: 0.00000001894239130435 segundos
+
+Pagina:461
+Tempo total: 0.068999 segundos
+Tempo médio por iteração: 0.00000001496724511931 segundos
+
+Pagina:462
+Tempo total: 0.072322 segundos
+Tempo médio por iteração: 0.00000001565411255411 segundos
+
+Pagina:463
+Tempo total: 0.064633 segundos
+Tempo médio por iteração: 0.00000001395961123110 segundos
+
+Pagina:464
+Tempo total: 0.088010 segundos
+Tempo médio por iteração: 0.00000001896767241379 segundos
+
+Pagina:465
+Tempo total: 0.104547 segundos
+Tempo médio por iteração: 0.00000002248322580645 segundos
+
+Pagina:466
+Tempo total: 0.113671 segundos
+Tempo médio por iteração: 0.00000002439291845494 segundos
+
+Pagina:467
+Tempo total: 0.073061 segundos
+Tempo médio por iteração: 0.00000001564475374732 segundos
+
+Pagina:468
+Tempo total: 0.087776 segundos
+Tempo médio por iteração: 0.00000001875555555556 segundos
+
+Pagina:469
+Tempo total: 0.107298 segundos
+Tempo médio por iteração: 0.00000002287803837953 segundos
+
+Pagina:470
+Tempo total: 0.071042 segundos
+Tempo médio por iteração: 0.00000001511531914894 segundos
+
+Pagina:471
+Tempo total: 0.070805 segundos
+Tempo médio por iteração: 0.00000001503290870488 segundos
+
+Pagina:472
+Tempo total: 0.084893 segundos
+Tempo médio por iteração: 0.00000001798580508475 segundos
+
+Pagina:473
+Tempo total: 0.109107 segundos
+Tempo médio por iteração: 0.00000002306701902748 segundos
+
+Pagina:474
+Tempo total: 0.082915 segundos
+Tempo médio por iteração: 0.00000001749261603376 segundos
+
+Pagina:475
+Tempo total: 0.093821 segundos
+Tempo médio por iteração: 0.00000001975178947368 segundos
+
+Pagina:476
+Tempo total: 0.076123 segundos
+Tempo médio por iteração: 0.00000001599222689076 segundos
+
+Pagina:477
+Tempo total: 0.071726 segundos
+Tempo médio por iteração: 0.00000001503689727463 segundos
+
+Pagina:478
+Tempo total: 0.088734 segundos
+Tempo médio por iteração: 0.00000001856359832636 segundos
+
+Pagina:479
+Tempo total: 0.073429 segundos
+Tempo médio por iteração: 0.00000001532964509395 segundos
+
+Pagina:480
+Tempo total: 0.072110 segundos
+Tempo médio por iteração: 0.00000001502291666667 segundos
+
+Pagina:481
+Tempo total: 0.077798 segundos
+Tempo médio por iteração: 0.00000001617422037422 segundos
+
+Pagina:482
+Tempo total: 0.115587 segundos
+Tempo médio por iteração: 0.00000002398070539419 segundos
+
+Pagina:483
+Tempo total: 0.074846 segundos
+Tempo médio por iteração: 0.00000001549606625259 segundos
+
+Pagina:484
+Tempo total: 0.148332 segundos
+Tempo médio por iteração: 0.00000003064710743802 segundos
+
+Pagina:485
+Tempo total: 0.104276 segundos
+Tempo médio por iteração: 0.00000002150020618557 segundos
+
+Pagina:486
+Tempo total: 0.121133 segundos
+Tempo médio por iteração: 0.00000002492448559671 segundos
+
+Pagina:487
+Tempo total: 0.091257 segundos
+Tempo médio por iteração: 0.00000001873860369610 segundos
+
+Pagina:488
+Tempo total: 0.072406 segundos
+Tempo médio por iteração: 0.00000001483729508197 segundos
+
+Pagina:489
+Tempo total: 0.100280 segundos
+Tempo médio por iteração: 0.00000002050715746421 segundos
+
+Pagina:490
+Tempo total: 0.083118 segundos
+Tempo médio por iteração: 0.00000001696285714286 segundos
+
+Pagina:491
+Tempo total: 0.072300 segundos
+Tempo médio por iteração: 0.00000001472505091650 segundos
+
+Pagina:492
+Tempo total: 0.078769 segundos
+Tempo médio por iteração: 0.00000001600995934959 segundos
+
+Pagina:493
+Tempo total: 0.129460 segundos
+Tempo médio por iteração: 0.00000002625963488844 segundos
+
+Pagina:494
+Tempo total: 0.117776 segundos
+Tempo médio por iteração: 0.00000002384129554656 segundos
+
+Pagina:495
+Tempo total: 0.096249 segundos
+Tempo médio por iteração: 0.00000001944424242424 segundos
+
+Pagina:496
+Tempo total: 0.091462 segundos
+Tempo médio por iteração: 0.00000001843991935484 segundos
+
+Pagina:497
+Tempo total: 0.089824 segundos
+Tempo médio por iteração: 0.00000001807323943662 segundos
+
+Pagina:498
+Tempo total: 0.073847 segundos
+Tempo médio por iteração: 0.00000001482871485944 segundos
+
+Pagina:499
+Tempo total: 0.076835 segundos
+Tempo médio por iteração: 0.00000001539779559118 segundos
+
+Pagina:500
+Tempo total: 0.106217 segundos
+Tempo médio por iteração: 0.00000002124340000000 segundos
+
+Pagina:501
+Tempo total: 0.083426 segundos
+Tempo médio por iteração: 0.00000001665189620758 segundos
+
+Pagina:502
+Tempo total: 0.070261 segundos
+Tempo médio por iteração: 0.00000001399621513944 segundos
+
+Pagina:503
+Tempo total: 0.114565 segundos
+Tempo médio por iteração: 0.00000002277634194831 segundos
+
+Pagina:504
+Tempo total: 0.090594 segundos
+Tempo médio por iteração: 0.00000001797500000000 segundos
+
+Pagina:505
+Tempo total: 0.100402 segundos
+Tempo médio por iteração: 0.00000001988158415842 segundos
+
+Pagina:506
+Tempo total: 0.095484 segundos
+Tempo médio por iteração: 0.00000001887035573123 segundos
+
+Pagina:507
+Tempo total: 0.073388 segundos
+Tempo médio por iteração: 0.00000001447495069034 segundos
+
+Pagina:508
+Tempo total: 0.127929 segundos
+Tempo médio por iteração: 0.00000002518287401575 segundos
+
+Pagina:509
+Tempo total: 0.127049 segundos
+Tempo médio por iteração: 0.00000002496051080550 segundos
+
+Pagina:510
+Tempo total: 0.105820 segundos
+Tempo médio por iteração: 0.00000002074901960784 segundos
+
+Pagina:511
+Tempo total: 0.094605 segundos
+Tempo médio por iteração: 0.00000001851369863014 segundos
+
+Pagina:512
+Tempo total: 0.114773 segundos
+Tempo médio por iteração: 0.00000002241660156250 segundos
+
+Pagina:513
+Tempo total: 0.074098 segundos
+Tempo médio por iteração: 0.00000001444405458090 segundos
+
+Pagina:514
+Tempo total: 0.126395 segundos
+Tempo médio por iteração: 0.00000002459046692607 segundos
+
+Pagina:515
+Tempo total: 0.131438 segundos
+Tempo médio por iteração: 0.00000002552194174757 segundos
+
+Pagina:516
+Tempo total: 0.084047 segundos
+Tempo médio por iteração: 0.00000001628817829457 segundos
+
+Pagina:517
+Tempo total: 0.088700 segundos
+Tempo médio por iteração: 0.00000001715667311412 segundos
+
+Pagina:518
+Tempo total: 0.075600 segundos
+Tempo médio por iteração: 0.00000001459459459459 segundos
+
+Pagina:519
+Tempo total: 0.102844 segundos
+Tempo médio por iteração: 0.00000001981579961464 segundos
+
+Pagina:520
+Tempo total: 0.077636 segundos
+Tempo médio por iteração: 0.00000001493000000000 segundos
+
+Pagina:521
+Tempo total: 0.080441 segundos
+Tempo médio por iteração: 0.00000001543973128599 segundos
+
+Pagina:522
+Tempo total: 0.090433 segundos
+Tempo médio por iteração: 0.00000001732432950192 segundos
+
+Pagina:523
+Tempo total: 0.092252 segundos
+Tempo médio por iteração: 0.00000001763900573614 segundos
+
+Pagina:524
+Tempo total: 0.089004 segundos
+Tempo médio por iteração: 0.00000001698549618321 segundos
+
+Pagina:525
+Tempo total: 0.077981 segundos
+Tempo médio por iteração: 0.00000001485352380952 segundos
+
+Pagina:526
+Tempo total: 0.093165 segundos
+Tempo médio por iteração: 0.00000001771197718631 segundos
+
+Pagina:527
+Tempo total: 0.080067 segundos
+Tempo médio por iteração: 0.00000001519297912713 segundos
+
+Pagina:528
+Tempo total: 0.107282 segundos
+Tempo médio por iteração: 0.00000002031856060606 segundos
+
+Pagina:529
+Tempo total: 0.088335 segundos
+Tempo médio por iteração: 0.00000001669848771267 segundos
+
+Pagina:530
+Tempo total: 0.098619 segundos
+Tempo médio por iteração: 0.00000001860735849057 segundos
+
+Pagina:531
+Tempo total: 0.077575 segundos
+Tempo médio por iteração: 0.00000001460922787194 segundos
+
+Pagina:532
+Tempo total: 0.115374 segundos
+Tempo médio por iteração: 0.00000002168684210526 segundos
+
+Pagina:533
+Tempo total: 0.128681 segundos
+Tempo médio por iteração: 0.00000002414277673546 segundos
+
+Pagina:534
+Tempo total: 0.077733 segundos
+Tempo médio por iteração: 0.00000001455674157303 segundos
+
+Pagina:535
+Tempo total: 0.081853 segundos
+Tempo médio por iteração: 0.00000001529962616822 segundos
+
+Pagina:536
+Tempo total: 0.158818 segundos
+Tempo médio por iteração: 0.00000002963022388060 segundos
+
+Pagina:537
+Tempo total: 0.123879 segundos
+Tempo médio por iteração: 0.00000002306871508380 segundos
+
+Pagina:538
+Tempo total: 0.112714 segundos
+Tempo médio por iteração: 0.00000002095055762082 segundos
+
+Pagina:539
+Tempo total: 0.086772 segundos
+Tempo médio por iteração: 0.00000001609870129870 segundos
+
+Pagina:540
+Tempo total: 0.068765 segundos
+Tempo médio por iteração: 0.00000001273425925926 segundos
+
+Pagina:541
+Tempo total: 0.079707 segundos
+Tempo médio por iteração: 0.00000001473327171904 segundos
+
+Pagina:542
+Tempo total: 0.095953 segundos
+Tempo médio por iteração: 0.00000001770350553506 segundos
+
+Pagina:543
+Tempo total: 0.113661 segundos
+Tempo médio por iteração: 0.00000002093204419890 segundos
+
+Pagina:544
+Tempo total: 0.152482 segundos
+Tempo médio por iteração: 0.00000002802977941176 segundos
+
+Pagina:545
+Tempo total: 0.126241 segundos
+Tempo médio por iteração: 0.00000002316348623853 segundos
+
+Pagina:546
+Tempo total: 0.082531 segundos
+Tempo médio por iteração: 0.00000001511556776557 segundos
+
+Pagina:547
+Tempo total: 0.085664 segundos
+Tempo médio por iteração: 0.00000001566069469835 segundos
+
+Pagina:548
+Tempo total: 0.103767 segundos
+Tempo médio por iteração: 0.00000001893558394161 segundos
+
+Pagina:549
+Tempo total: 0.081865 segundos
+Tempo médio por iteração: 0.00000001491165755920 segundos
+
+Pagina:550
+Tempo total: 0.081210 segundos
+Tempo médio por iteração: 0.00000001476545454545 segundos
+
+Pagina:551
+Tempo total: 0.127788 segundos
+Tempo médio por iteração: 0.00000002319201451906 segundos
+
+Pagina:552
+Tempo total: 0.104326 segundos
+Tempo médio por iteração: 0.00000001889963768116 segundos
+
+Pagina:553
+Tempo total: 0.086373 segundos
+Tempo médio por iteração: 0.00000001561898734177 segundos
+
+Pagina:554
+Tempo total: 0.086470 segundos
+Tempo médio por iteração: 0.00000001560830324910 segundos
+
+Pagina:555
+Tempo total: 0.084130 segundos
+Tempo médio por iteração: 0.00000001515855855856 segundos
+
+Pagina:556
+Tempo total: 0.085686 segundos
+Tempo médio por iteração: 0.00000001541115107914 segundos
+
+Pagina:557
+Tempo total: 0.085902 segundos
+Tempo médio por iteração: 0.00000001542226211849 segundos
+
+Pagina:558
+Tempo total: 0.083337 segundos
+Tempo médio por iteração: 0.00000001493494623656 segundos
+
+Pagina:559
+Tempo total: 0.098561 segundos
+Tempo médio por iteração: 0.00000001763166368515 segundos
+
+Pagina:560
+Tempo total: 0.141718 segundos
+Tempo médio por iteração: 0.00000002530678571429 segundos
+
+Pagina:561
+Tempo total: 0.100112 segundos
+Tempo médio por iteração: 0.00000001784527629234 segundos
+
+Pagina:562
+Tempo total: 0.110360 segundos
+Tempo médio por iteração: 0.00000001963701067616 segundos
+
+Pagina:563
+Tempo total: 0.175370 segundos
+Tempo médio por iteração: 0.00000003114920071048 segundos
+
+Pagina:564
+Tempo total: 0.100930 segundos
+Tempo médio por iteração: 0.00000001789539007092 segundos
+
+Pagina:565
+Tempo total: 0.100898 segundos
+Tempo médio por iteração: 0.00000001785805309735 segundos
+
+Pagina:566
+Tempo total: 0.086384 segundos
+Tempo médio por iteração: 0.00000001526219081272 segundos
+
+Pagina:567
+Tempo total: 0.093131 segundos
+Tempo médio por iteração: 0.00000001642522045855 segundos
+
+Pagina:568
+Tempo total: 0.124779 segundos
+Tempo médio por iteração: 0.00000002196813380282 segundos
+
+Pagina:569
+Tempo total: 0.092334 segundos
+Tempo médio por iteração: 0.00000001622741652021 segundos
+
+Pagina:570
+Tempo total: 0.115939 segundos
+Tempo médio por iteração: 0.00000002034017543860 segundos
+
+Pagina:571
+Tempo total: 0.103058 segundos
+Tempo médio por iteração: 0.00000001804868651489 segundos
+
+Pagina:572
+Tempo total: 0.090365 segundos
+Tempo médio por iteração: 0.00000001579807692308 segundos
+
+Pagina:573
+Tempo total: 0.100756 segundos
+Tempo médio por iteração: 0.00000001758394415358 segundos
+
+Pagina:574
+Tempo total: 0.095220 segundos
+Tempo médio por iteração: 0.00000001658885017422 segundos
+
+Pagina:575
+Tempo total: 0.134434 segundos
+Tempo médio por iteração: 0.00000002337982608696 segundos
+
+Pagina:576
+Tempo total: 0.169330 segundos
+Tempo médio por iteração: 0.00000002939756944444 segundos
+
+Pagina:577
+Tempo total: 0.117642 segundos
+Tempo médio por iteração: 0.00000002038856152513 segundos
+
+Pagina:578
+Tempo total: 0.090184 segundos
+Tempo médio por iteração: 0.00000001560276816609 segundos
+
+Pagina:579
+Tempo total: 0.148161 segundos
+Tempo médio por iteração: 0.00000002558911917098 segundos
+
+Pagina:580
+Tempo total: 0.107481 segundos
+Tempo médio por iteração: 0.00000001853120689655 segundos
+
+Pagina:581
+Tempo total: 0.072970 segundos
+Tempo médio por iteração: 0.00000001255938037866 segundos
+
+Pagina:582
+Tempo total: 0.106029 segundos
+Tempo médio por iteração: 0.00000001821804123711 segundos
+
+Pagina:583
+Tempo total: 0.091309 segundos
+Tempo médio por iteração: 0.00000001566192109777 segundos
+
+Pagina:584
+Tempo total: 0.120732 segundos
+Tempo médio por iteração: 0.00000002067328767123 segundos
+
+Pagina:585
+Tempo total: 0.110664 segundos
+Tempo médio por iteração: 0.00000001891692307692 segundos
+
+Pagina:586
+Tempo total: 0.091808 segundos
+Tempo médio por iteração: 0.00000001566689419795 segundos
+
+Pagina:587
+Tempo total: 0.094563 segundos
+Tempo médio por iteração: 0.00000001610954003407 segundos
+
+Pagina:588
+Tempo total: 0.088059 segundos
+Tempo médio por iteração: 0.00000001497602040816 segundos
+
+Pagina:589
+Tempo total: 0.130840 segundos
+Tempo médio por iteração: 0.00000002221392190153 segundos
+
+Pagina:590
+Tempo total: 0.117733 segundos
+Tempo médio por iteração: 0.00000001995474576271 segundos
+
+Pagina:591
+Tempo total: 0.094228 segundos
+Tempo médio por iteração: 0.00000001594382402707 segundos
+
+Pagina:592
+Tempo total: 0.158788 segundos
+Tempo médio por iteração: 0.00000002682229729730 segundos
+
+Pagina:593
+Tempo total: 0.115045 segundos
+Tempo médio por iteração: 0.00000001940050590219 segundos
+
+Pagina:594
+Tempo total: 0.087633 segundos
+Tempo médio por iteração: 0.00000001475303030303 segundos
+
+Pagina:595
+Tempo total: 0.098224 segundos
+Tempo médio por iteração: 0.00000001650823529412 segundos
+
+Pagina:596
+Tempo total: 0.104901 segundos
+Tempo médio por iteração: 0.00000001760083892617 segundos
+
+Pagina:597
+Tempo total: 0.101235 segundos
+Tempo médio por iteração: 0.00000001695728643216 segundos
+
+Pagina:598
+Tempo total: 0.161568 segundos
+Tempo médio por iteração: 0.00000002701806020067 segundos
+
+Pagina:599
+Tempo total: 0.112626 segundos
+Tempo médio por iteração: 0.00000001880233722871 segundos
+
+Pagina:600
+Tempo total: 0.092572 segundos
+Tempo médio por iteração: 0.00000001542866666667 segundos
+
+Pagina:601
+Tempo total: 0.093871 segundos
+Tempo médio por iteração: 0.00000001561913477537 segundos
+
+Pagina:602
+Tempo total: 0.096009 segundos
+Tempo médio por iteração: 0.00000001594833887043 segundos
+
+Pagina:603
+Tempo total: 0.098558 segundos
+Tempo médio por iteração: 0.00000001634461028192 segundos
+
+Pagina:604
+Tempo total: 0.113742 segundos
+Tempo médio por iteração: 0.00000001883145695364 segundos
+
+Pagina:605
+Tempo total: 0.115124 segundos
+Tempo médio por iteração: 0.00000001902876033058 segundos
+
+Pagina:606
+Tempo total: 0.124547 segundos
+Tempo médio por iteração: 0.00000002055231023102 segundos
+
+Pagina:607
+Tempo total: 0.104399 segundos
+Tempo médio por iteração: 0.00000001719917627677 segundos
+
+Pagina:608
+Tempo total: 0.100811 segundos
+Tempo médio por iteração: 0.00000001658075657895 segundos
+
+Pagina:609
+Tempo total: 0.088529 segundos
+Tempo médio por iteração: 0.00000001453678160920 segundos
+
+Pagina:610
+Tempo total: 0.101117 segundos
+Tempo médio por iteração: 0.00000001657655737705 segundos
+
+Pagina:611
+Tempo total: 0.108136 segundos
+Tempo médio por iteração: 0.00000001769819967267 segundos
+
+Pagina:612
+Tempo total: 0.135939 segundos
+Tempo médio por iteração: 0.00000002221225490196 segundos
+
+Pagina:613
+Tempo total: 0.140706 segundos
+Tempo médio por iteração: 0.00000002295367047308 segundos
+
+Pagina:614
+Tempo total: 0.102784 segundos
+Tempo médio por iteração: 0.00000001674006514658 segundos
+
+Pagina:615
+Tempo total: 0.096134 segundos
+Tempo médio por iteração: 0.00000001563154471545 segundos
+
+Pagina:616
+Tempo total: 0.102081 segundos
+Tempo médio por iteração: 0.00000001657159090909 segundos
+
+Pagina:617
+Tempo total: 0.117392 segundos
+Tempo médio por iteração: 0.00000001902625607780 segundos
+
+Pagina:618
+Tempo total: 0.129149 segundos
+Tempo médio por iteração: 0.00000002089789644013 segundos
+
+Pagina:619
+Tempo total: 0.104436 segundos
+Tempo médio por iteração: 0.00000001687172859451 segundos
+
+Pagina:620
+Tempo total: 0.133254 segundos
+Tempo médio por iteração: 0.00000002149258064516 segundos
+
+Pagina:621
+Tempo total: 0.125745 segundos
+Tempo médio por iteração: 0.00000002024879227053 segundos
+
+Pagina:622
+Tempo total: 0.101989 segundos
+Tempo médio por iteração: 0.00000001639694533762 segundos
+
+Pagina:623
+Tempo total: 0.114022 segundos
+Tempo médio por iteração: 0.00000001830208667737 segundos
+
+Pagina:624
+Tempo total: 0.119792 segundos
+Tempo médio por iteração: 0.00000001919743589744 segundos
+
+Pagina:625
+Tempo total: 0.107598 segundos
+Tempo médio por iteração: 0.00000001721568000000 segundos
+
+Pagina:626
+Tempo total: 0.133693 segundos
+Tempo médio por iteração: 0.00000002135670926518 segundos
+
+Pagina:627
+Tempo total: 0.101439 segundos
+Tempo médio por iteração: 0.00000001617846889952 segundos
+
+Pagina:628
+Tempo total: 0.093982 segundos
+Tempo médio por iteração: 0.00000001496528662420 segundos
+
+Pagina:629
+Tempo total: 0.132784 segundos
+Tempo médio por iteração: 0.00000002111033386328 segundos
+
+Pagina:630
+Tempo total: 0.097997 segundos
+Tempo médio por iteração: 0.00000001555507936508 segundos
+
+Pagina:631
+Tempo total: 0.133509 segundos
+Tempo médio por iteração: 0.00000002115832012678 segundos
+
+Pagina:632
+Tempo total: 0.110773 segundos
+Tempo médio por iteração: 0.00000001752737341772 segundos
+
+Pagina:633
+Tempo total: 0.127692 segundos
+Tempo médio por iteração: 0.00000002017251184834 segundos
+
+Pagina:634
+Tempo total: 0.143968 segundos
+Tempo médio por iteração: 0.00000002270788643533 segundos
+
+Pagina:635
+Tempo total: 0.136923 segundos
+Tempo médio por iteração: 0.00000002156267716535 segundos
+
+Pagina:636
+Tempo total: 0.117124 segundos
+Tempo médio por iteração: 0.00000001841572327044 segundos
+
+Pagina:637
+Tempo total: 0.134811 segundos
+Tempo médio por iteração: 0.00000002116342229199 segundos
+
+Pagina:638
+Tempo total: 0.106091 segundos
+Tempo médio por iteração: 0.00000001662868338558 segundos
+
+Pagina:639
+Tempo total: 0.131596 segundos
+Tempo médio por iteração: 0.00000002059405320814 segundos
+
+Pagina:640
+Tempo total: 0.149487 segundos
+Tempo médio por iteração: 0.00000002335734375000 segundos
+
+Pagina:641
+Tempo total: 0.115940 segundos
+Tempo médio por iteração: 0.00000001808736349454 segundos
+
+Pagina:642
+Tempo total: 0.111152 segundos
+Tempo médio por iteração: 0.00000001731339563863 segundos
+
+Pagina:643
+Tempo total: 0.104642 segundos
+Tempo médio por iteração: 0.00000001627402799378 segundos
+
+Pagina:644
+Tempo total: 0.112435 segundos
+Tempo médio por iteração: 0.00000001745885093168 segundos
+
+Pagina:645
+Tempo total: 0.150446 segundos
+Tempo médio por iteração: 0.00000002332496124031 segundos
+
+Pagina:646
+Tempo total: 0.143671 segundos
+Tempo médio por iteração: 0.00000002224009287926 segundos
+
+Pagina:647
+Tempo total: 0.104754 segundos
+Tempo médio por iteração: 0.00000001619072642968 segundos
+
+Pagina:648
+Tempo total: 0.129258 segundos
+Tempo médio por iteração: 0.00000001994722222222 segundos
+
+Pagina:649
+Tempo total: 0.135399 segundos
+Tempo médio por iteração: 0.00000002086271186441 segundos
+
+Pagina:650
+Tempo total: 0.110555 segundos
+Tempo médio por iteração: 0.00000001700846153846 segundos
+
+Pagina:651
+Tempo total: 0.131029 segundos
+Tempo médio por iteração: 0.00000002012734254992 segundos
+
+Pagina:652
+Tempo total: 0.107579 segundos
+Tempo médio por iteração: 0.00000001649984662577 segundos
+
+Pagina:653
+Tempo total: 0.112536 segundos
+Tempo médio por iteração: 0.00000001723369065850 segundos
+
+Pagina:654
+Tempo total: 0.130076 segundos
+Tempo médio por iteração: 0.00000001988929663609 segundos
+
+Pagina:655
+Tempo total: 0.210069 segundos
+Tempo médio por iteração: 0.00000003207160305344 segundos
+
+Pagina:656
+Tempo total: 0.154830 segundos
+Tempo médio por iteração: 0.00000002360213414634 segundos
+
+Pagina:657
+Tempo total: 0.119460 segundos
+Tempo médio por iteração: 0.00000001818264840183 segundos
+
+Pagina:658
+Tempo total: 0.107609 segundos
+Tempo médio por iteração: 0.00000001635395136778 segundos
+
+Pagina:659
+Tempo total: 0.181824 segundos
+Tempo médio por iteração: 0.00000002759089529590 segundos
+
+Pagina:660
+Tempo total: 0.183089 segundos
+Tempo médio por iteração: 0.00000002774075757576 segundos
+
+Pagina:661
+Tempo total: 0.133812 segundos
+Tempo médio por iteração: 0.00000002024387291982 segundos
+
+Pagina:662
+Tempo total: 0.153777 segundos
+Tempo médio por iteração: 0.00000002322915407855 segundos
+
+Pagina:663
+Tempo total: 0.107554 segundos
+Tempo médio por iteração: 0.00000001622232277526 segundos
+
+Pagina:664
+Tempo total: 0.101641 segundos
+Tempo médio por iteração: 0.00000001530737951807 segundos
+
+Pagina:665
+Tempo total: 0.178035 segundos
+Tempo médio por iteração: 0.00000002677218045113 segundos
+
+Pagina:666
+Tempo total: 0.120934 segundos
+Tempo médio por iteração: 0.00000001815825825826 segundos
+
+Pagina:667
+Tempo total: 0.133386 segundos
+Tempo médio por iteração: 0.00000001999790104948 segundos
+
+Pagina:668
+Tempo total: 0.099779 segundos
+Tempo médio por iteração: 0.00000001493697604790 segundos
+
+Pagina:669
+Tempo total: 0.102046 segundos
+Tempo médio por iteração: 0.00000001525351270553 segundos
+
+Pagina:670
+Tempo total: 0.101978 segundos
+Tempo médio por iteração: 0.00000001522059701493 segundos
+
+Pagina:671
+Tempo total: 0.097726 segundos
+Tempo médio por iteração: 0.00000001456423248882 segundos
+
+Pagina:672
+Tempo total: 0.247484 segundos
+Tempo médio por iteração: 0.00000003682797619048 segundos
+
+Pagina:673
+Tempo total: 0.136122 segundos
+Tempo médio por iteração: 0.00000002022615156018 segundos
+
+Pagina:674
+Tempo total: 0.110500 segundos
+Tempo médio por iteração: 0.00000001639465875371 segundos
+
+Pagina:675
+Tempo total: 0.148976 segundos
+Tempo médio por iteração: 0.00000002207051851852 segundos
+
+Pagina:676
+Tempo total: 0.118348 segundos
+Tempo médio por iteração: 0.00000001750710059172 segundos
+
+Pagina:677
+Tempo total: 0.141217 segundos
+Tempo médio por iteração: 0.00000002085923190547 segundos
+
+Pagina:678
+Tempo total: 0.113467 segundos
+Tempo médio por iteração: 0.00000001673554572271 segundos
+
+Pagina:679
+Tempo total: 0.106751 segundos
+Tempo médio por iteração: 0.00000001572179675994 segundos
+
+Pagina:680
+Tempo total: 0.176076 segundos
+Tempo médio por iteração: 0.00000002589352941176 segundos
+
+Pagina:681
+Tempo total: 0.114288 segundos
+Tempo médio por iteração: 0.00000001678237885463 segundos
+
+Pagina:682
+Tempo total: 0.121645 segundos
+Tempo médio por iteração: 0.00000001783651026393 segundos
+
+Pagina:683
+Tempo total: 0.124114 segundos
+Tempo médio por iteração: 0.00000001817188872621 segundos
+
+Pagina:684
+Tempo total: 0.109888 segundos
+Tempo médio por iteração: 0.00000001606549707602 segundos
+
+Pagina:685
+Tempo total: 0.079635 segundos
+Tempo médio por iteração: 0.00000001162554744526 segundos
+
+Pagina:686
+Tempo total: 0.157652 segundos
+Tempo médio por iteração: 0.00000002298134110787 segundos
+
+Pagina:687
+Tempo total: 0.133963 segundos
+Tempo médio por iteração: 0.00000001949970887918 segundos
+
+Pagina:688
+Tempo total: 0.170680 segundos
+Tempo médio por iteração: 0.00000002480813953488 segundos
+
+Pagina:689
+Tempo total: 0.153299 segundos
+Tempo médio por iteração: 0.00000002224949201742 segundos
+
+Pagina:690
+Tempo total: 0.130292 segundos
+Tempo médio por iteração: 0.00000001888289855072 segundos
+
+Pagina:691
+Tempo total: 0.162743 segundos
+Tempo médio por iteração: 0.00000002355180897250 segundos
+
+Pagina:692
+Tempo total: 0.112417 segundos
+Tempo médio por iteração: 0.00000001624523121387 segundos
+
+Pagina:693
+Tempo total: 0.137523 segundos
+Tempo médio por iteração: 0.00000001984458874459 segundos
+
+Pagina:694
+Tempo total: 0.112759 segundos
+Tempo médio por iteração: 0.00000001624769452450 segundos
+
+Pagina:695
+Tempo total: 0.158054 segundos
+Tempo médio por iteração: 0.00000002274158273381 segundos
+
+Pagina:696
+Tempo total: 0.130807 segundos
+Tempo médio por iteração: 0.00000001879410919540 segundos
+
+Pagina:697
+Tempo total: 0.144462 segundos
+Tempo médio por iteração: 0.00000002072625538020 segundos
+
+Pagina:698
+Tempo total: 0.123735 segundos
+Tempo médio por iteração: 0.00000001772707736390 segundos
+
+Pagina:699
+Tempo total: 0.140455 segundos
+Tempo médio por iteração: 0.00000002009370529328 segundos
+
+Pagina:700
+Tempo total: 0.127567 segundos
+Tempo médio por iteração: 0.00000001822385714286 segundos
+
+Pagina:701
+Tempo total: 0.119997 segundos
+Tempo médio por iteração: 0.00000001711797432240 segundos
+
+Pagina:702
+Tempo total: 0.118304 segundos
+Tempo médio por iteração: 0.00000001685242165242 segundos
+
+Pagina:703
+Tempo total: 0.191982 segundos
+Tempo médio por iteração: 0.00000002730896159317 segundos
+
+Pagina:704
+Tempo total: 0.132230 segundos
+Tempo médio por iteração: 0.00000001878267045455 segundos
+
+Pagina:705
+Tempo total: 0.128970 segundos
+Tempo médio por iteração: 0.00000001829361702128 segundos
+
+Pagina:706
+Tempo total: 0.108603 segundos
+Tempo médio por iteração: 0.00000001538286118980 segundos
+
+Pagina:707
+Tempo total: 0.112729 segundos
+Tempo médio por iteração: 0.00000001594469589816 segundos
+
+Pagina:708
+Tempo total: 0.113434 segundos
+Tempo médio por iteração: 0.00000001602175141243 segundos
+
+Pagina:709
+Tempo total: 0.148233 segundos
+Tempo médio por iteração: 0.00000002090733427362 segundos
+
+Pagina:710
+Tempo total: 0.155082 segundos
+Tempo médio por iteração: 0.00000002184253521127 segundos
+
+Pagina:711
+Tempo total: 0.131371 segundos
+Tempo médio por iteração: 0.00000001847693389592 segundos
+
+Pagina:712
+Tempo total: 0.160192 segundos
+Tempo médio por iteração: 0.00000002249887640449 segundos
+
+Pagina:713
+Tempo total: 0.170922 segundos
+Tempo médio por iteração: 0.00000002397223001403 segundos
+
+Pagina:714
+Tempo total: 0.162929 segundos
+Tempo médio por iteração: 0.00000002281918767507 segundos
+
+Pagina:715
+Tempo total: 0.128886 segundos
+Tempo médio por iteração: 0.00000001802601398601 segundos
+
+Pagina:716
+Tempo total: 0.117608 segundos
+Tempo médio por iteração: 0.00000001642569832402 segundos
+
+Pagina:717
+Tempo total: 0.124444 segundos
+Tempo médio por iteração: 0.00000001735620641562 segundos
+
+Pagina:718
+Tempo total: 0.122267 segundos
+Tempo médio por iteração: 0.00000001702883008357 segundos
+
+Pagina:719
+Tempo total: 0.120182 segundos
+Tempo médio por iteração: 0.00000001671515994437 segundos
+
+Pagina:720
+Tempo total: 0.126309 segundos
+Tempo médio por iteração: 0.00000001754291666667 segundos
+
+Pagina:721
+Tempo total: 0.147316 segundos
+Tempo médio por iteração: 0.00000002043217753121 segundos
+
+Pagina:722
+Tempo total: 0.113441 segundos
+Tempo médio por iteração: 0.00000001571204986150 segundos
+
+Pagina:723
+Tempo total: 0.110257 segundos
+Tempo médio por iteração: 0.00000001524993084371 segundos
+
+Pagina:724
+Tempo total: 0.102851 segundos
+Tempo médio por iteração: 0.00000001420593922652 segundos
+
+Pagina:725
+Tempo total: 0.123814 segundos
+Tempo médio por iteração: 0.00000001707779310345 segundos
+
+Pagina:726
+Tempo total: 0.111366 segundos
+Tempo médio por iteração: 0.00000001533966942149 segundos
+
+Pagina:727
+Tempo total: 0.117676 segundos
+Tempo médio por iteração: 0.00000001618651994498 segundos
+
+Pagina:728
+Tempo total: 0.132997 segundos
+Tempo médio por iteração: 0.00000001826881868132 segundos
+
+Pagina:729
+Tempo total: 0.146060 segundos
+Tempo médio por iteração: 0.00000002003566529492 segundos
+
+Pagina:730
+Tempo total: 0.117684 segundos
+Tempo médio por iteração: 0.00000001612109589041 segundos
+
+Pagina:731
+Tempo total: 0.111466 segundos
+Tempo médio por iteração: 0.00000001524842681259 segundos
+
+Pagina:732
+Tempo total: 0.117520 segundos
+Tempo médio por iteração: 0.00000001605464480874 segundos
+
+Pagina:733
+Tempo total: 0.141874 segundos
+Tempo médio por iteração: 0.00000001935525238745 segundos
+
+Pagina:734
+Tempo total: 0.123400 segundos
+Tempo médio por iteração: 0.00000001681198910082 segundos
+
+Pagina:735
+Tempo total: 0.127855 segundos
+Tempo médio por iteração: 0.00000001739523809524 segundos
+
+Pagina:736
+Tempo total: 0.149354 segundos
+Tempo médio por iteração: 0.00000002029266304348 segundos
+
+Pagina:737
+Tempo total: 0.121299 segundos
+Tempo médio por iteração: 0.00000001645848032564 segundos
+
+Pagina:738
+Tempo total: 0.185568 segundos
+Tempo médio por iteração: 0.00000002514471544715 segundos
+
+Pagina:739
+Tempo total: 0.204516 segundos
+Tempo médio por iteração: 0.00000002767469553451 segundos
+
+Pagina:740
+Tempo total: 0.178288 segundos
+Tempo médio por iteração: 0.00000002409297297297 segundos
+
+Pagina:741
+Tempo total: 0.151010 segundos
+Tempo médio por iteração: 0.00000002037921727395 segundos
+
+Pagina:742
+Tempo total: 0.148285 segundos
+Tempo médio por iteração: 0.00000001998450134771 segundos
+
+Pagina:743
+Tempo total: 0.222394 segundos
+Tempo médio por iteração: 0.00000002993189771198 segundos
+
+Pagina:744
+Tempo total: 0.129892 segundos
+Tempo médio por iteração: 0.00000001745860215054 segundos
+
+Pagina:745
+Tempo total: 0.124164 segundos
+Tempo médio por iteração: 0.00000001666630872483 segundos
+
+Pagina:746
+Tempo total: 0.113077 segundos
+Tempo médio por iteração: 0.00000001515777479893 segundos
+
+Pagina:747
+Tempo total: 0.112209 segundos
+Tempo médio por iteração: 0.00000001502128514056 segundos
+
+Pagina:748
+Tempo total: 0.191627 segundos
+Tempo médio por iteração: 0.00000002561858288770 segundos
+
+Pagina:749
+Tempo total: 0.145459 segundos
+Tempo médio por iteração: 0.00000001942042723632 segundos
+
+Pagina:750
+Tempo total: 0.139854 segundos
+Tempo médio por iteração: 0.00000001864720000000 segundos
+
+Pagina:751
+Tempo total: 0.121528 segundos
+Tempo médio por iteração: 0.00000001618215712383 segundos
+
+Pagina:752
+Tempo total: 0.127074 segundos
+Tempo médio por iteração: 0.00000001689813829787 segundos
+
+Pagina:753
+Tempo total: 0.115751 segundos
+Tempo médio por iteração: 0.00000001537197875166 segundos
+
+Pagina:754
+Tempo total: 0.154537 segundos
+Tempo médio por iteração: 0.00000002049562334218 segundos
+
+Pagina:755
+Tempo total: 0.209993 segundos
+Tempo médio por iteração: 0.00000002781364238411 segundos
+
+Pagina:756
+Tempo total: 0.123622 segundos
+Tempo médio por iteração: 0.00000001635211640212 segundos
+
+Pagina:757
+Tempo total: 0.207534 segundos
+Tempo médio por iteração: 0.00000002741532364597 segundos
+
+Pagina:758
+Tempo total: 0.129377 segundos
+Tempo médio por iteração: 0.00000001706820580475 segundos
+
+Pagina:759
+Tempo total: 0.110063 segundos
+Tempo médio por iteração: 0.00000001450105401845 segundos
+
+Pagina:760
+Tempo total: 0.173952 segundos
+Tempo médio por iteração: 0.00000002288842105263 segundos
+
+Pagina:761
+Tempo total: 0.143368 segundos
+Tempo médio por iteração: 0.00000001883942181340 segundos
+
+Pagina:762
+Tempo total: 0.197590 segundos
+Tempo médio por iteração: 0.00000002593044619423 segundos
+
+Pagina:763
+Tempo total: 0.140303 segundos
+Tempo médio por iteração: 0.00000001838833551769 segundos
+
+Pagina:764
+Tempo total: 0.124605 segundos
+Tempo médio por iteração: 0.00000001630955497382 segundos
+
+Pagina:765
+Tempo total: 0.170991 segundos
+Tempo médio por iteração: 0.00000002235176470588 segundos
+
+Pagina:766
+Tempo total: 0.152186 segundos
+Tempo médio por iteração: 0.00000001986762402089 segundos
+
+Pagina:767
+Tempo total: 0.134243 segundos
+Tempo médio por iteração: 0.00000001750234680574 segundos
+
+Pagina:768
+Tempo total: 0.111755 segundos
+Tempo médio por iteração: 0.00000001455143229167 segundos
+
+Pagina:769
+Tempo total: 0.169388 segundos
+Tempo médio por iteração: 0.00000002202704811443 segundos
+
+Pagina:770
+Tempo total: 0.118483 segundos
+Tempo médio por iteração: 0.00000001538740259740 segundos
+
+Pagina:771
+Tempo total: 0.145170 segundos
+Tempo médio por iteração: 0.00000001882879377432 segundos
+
+Pagina:772
+Tempo total: 0.174366 segundos
+Tempo médio por iteração: 0.00000002258626943005 segundos
+
+Pagina:773
+Tempo total: 0.115914 segundos
+Tempo médio por iteração: 0.00000001499534282018 segundos
+
+Pagina:774
+Tempo total: 0.177586 segundos
+Tempo médio por iteração: 0.00000002294392764858 segundos
+
+Pagina:775
+Tempo total: 0.192656 segundos
+Tempo médio por iteração: 0.00000002485883870968 segundos
+
+Pagina:776
+Tempo total: 0.165054 segundos
+Tempo médio por iteração: 0.00000002126984536082 segundos
+
+Pagina:777
+Tempo total: 0.129933 segundos
+Tempo médio por iteração: 0.00000001672239382239 segundos
+
+Pagina:778
+Tempo total: 0.141793 segundos
+Tempo médio por iteração: 0.00000001822532133676 segundos
+
+Pagina:779
+Tempo total: 0.123341 segundos
+Tempo médio por iteração: 0.00000001583324775353 segundos
+
+Pagina:780
+Tempo total: 0.117811 segundos
+Tempo médio por iteração: 0.00000001510397435897 segundos
+
+Pagina:781
+Tempo total: 0.220568 segundos
+Tempo médio por iteração: 0.00000002824174135723 segundos
+
+Pagina:782
+Tempo total: 0.174222 segundos
+Tempo médio por iteração: 0.00000002227902813299 segundos
+
+Pagina:783
+Tempo total: 0.123315 segundos
+Tempo médio por iteração: 0.00000001574904214559 segundos
+
+Pagina:784
+Tempo total: 0.158856 segundos
+Tempo médio por iteração: 0.00000002026224489796 segundos
+
+Pagina:785
+Tempo total: 0.215604 segundos
+Tempo médio por iteração: 0.00000002746547770701 segundos
+
+Pagina:786
+Tempo total: 0.162871 segundos
+Tempo médio por iteração: 0.00000002072150127226 segundos
+
+Pagina:787
+Tempo total: 0.135787 segundos
+Tempo médio por iteração: 0.00000001725374841169 segundos
+
+Pagina:788
+Tempo total: 0.185197 segundos
+Tempo médio por iteração: 0.00000002350215736041 segundos
+
+Pagina:789
+Tempo total: 0.234716 segundos
+Tempo médio por iteração: 0.00000002974854245881 segundos
+
+Pagina:790
+Tempo total: 0.183638 segundos
+Tempo médio por iteração: 0.00000002324531645570 segundos
+
+Pagina:791
+Tempo total: 0.132029 segundos
+Tempo médio por iteração: 0.00000001669140328698 segundos
+
+Pagina:792
+Tempo total: 0.129265 segundos
+Tempo médio por iteração: 0.00000001632133838384 segundos
+
+Pagina:793
+Tempo total: 0.187676 segundos
+Tempo médio por iteração: 0.00000002366658259773 segundos
+
+Pagina:794
+Tempo total: 0.119346 segundos
+Tempo médio por iteração: 0.00000001503098236776 segundos
+
+Pagina:795
+Tempo total: 0.127355 segundos
+Tempo médio por iteração: 0.00000001601949685535 segundos
+
+Pagina:796
+Tempo total: 0.124416 segundos
+Tempo médio por iteração: 0.00000001563015075377 segundos
+
+Pagina:797
+Tempo total: 0.137547 segundos
+Tempo médio por iteração: 0.00000001725809284818 segundos
+
+Pagina:798
+Tempo total: 0.126087 segundos
+Tempo médio por iteração: 0.00000001580037593985 segundos
+
+Pagina:799
+Tempo total: 0.159274 segundos
+Tempo médio por iteração: 0.00000001993416770964 segundos
+
+Pagina:800
+Tempo total: 0.149294 segundos
+Tempo médio por iteração: 0.00000001866175000000 segundos
+
+Pagina:801
+Tempo total: 0.144066 segundos
+Tempo médio por iteração: 0.00000001798576779026 segundos
+
+Pagina:802
+Tempo total: 0.212881 segundos
+Tempo médio por iteração: 0.00000002654376558603 segundos
+
+Pagina:803
+Tempo total: 0.165440 segundos
+Tempo médio por iteração: 0.00000002060273972603 segundos
+
+Pagina:804
+Tempo total: 0.221560 segundos
+Tempo médio por iteração: 0.00000002755721393035 segundos
+
+Pagina:805
+Tempo total: 0.175772 segundos
+Tempo médio por iteração: 0.00000002183503105590 segundos
+
+Pagina:806
+Tempo total: 0.139830 segundos
+Tempo médio por iteração: 0.00000001734863523573 segundos
+
+Pagina:807
+Tempo total: 0.133481 segundos
+Tempo médio por iteração: 0.00000001654039653036 segundos
+
+Pagina:808
+Tempo total: 0.143266 segundos
+Tempo médio por iteração: 0.00000001773094059406 segundos
+
+Pagina:809
+Tempo total: 0.157728 segundos
+Tempo médio por iteração: 0.00000001949666254635 segundos
+
+Pagina:810
+Tempo total: 0.127713 segundos
+Tempo médio por iteração: 0.00000001576703703704 segundos
+
+Pagina:811
+Tempo total: 0.203779 segundos
+Tempo médio por iteração: 0.00000002512688039457 segundos
+
+Pagina:812
+Tempo total: 0.176961 segundos
+Tempo médio por iteração: 0.00000002179322660099 segundos
+
+Pagina:813
+Tempo total: 0.148959 segundos
+Tempo médio por iteração: 0.00000001832214022140 segundos
+
+Pagina:814
+Tempo total: 0.216325 segundos
+Tempo médio por iteração: 0.00000002657555282555 segundos
+
+Pagina:815
+Tempo total: 0.228352 segundos
+Tempo médio por iteração: 0.00000002801865030675 segundos
+
+Pagina:816
+Tempo total: 0.123442 segundos
+Tempo médio por iteração: 0.00000001512769607843 segundos
+
+Pagina:817
+Tempo total: 0.171198 segundos
+Tempo médio por iteração: 0.00000002095446756426 segundos
+
+Pagina:818
+Tempo total: 0.135158 segundos
+Tempo médio por iteração: 0.00000001652298288509 segundos
+
+Pagina:819
+Tempo total: 0.166500 segundos
+Tempo médio por iteração: 0.00000002032967032967 segundos
+
+Pagina:820
+Tempo total: 0.110735 segundos
+Tempo médio por iteração: 0.00000001350426829268 segundos
+
+Pagina:821
+Tempo total: 0.143821 segundos
+Tempo médio por iteração: 0.00000001751778319123 segundos
+
+Pagina:822
+Tempo total: 0.120962 segundos
+Tempo médio por iteração: 0.00000001471557177616 segundos
+
+Pagina:823
+Tempo total: 0.154804 segundos
+Tempo médio por iteração: 0.00000001880972053463 segundos
+
+Pagina:824
+Tempo total: 0.226476 segundos
+Tempo médio por iteração: 0.00000002748495145631 segundos
+
+Pagina:825
+Tempo total: 0.142718 segundos
+Tempo médio por iteração: 0.00000001729915151515 segundos
+
+Pagina:826
+Tempo total: 0.140337 segundos
+Tempo médio por iteração: 0.00000001698995157385 segundos
+
+Pagina:827
+Tempo total: 0.144216 segundos
+Tempo médio por iteração: 0.00000001743845223700 segundos
+
+Pagina:828
+Tempo total: 0.152794 segundos
+Tempo médio por iteração: 0.00000001845338164251 segundos
+
+Pagina:829
+Tempo total: 0.177656 segundos
+Tempo médio por iteração: 0.00000002143015681544 segundos
+
+Pagina:830
+Tempo total: 0.151961 segundos
+Tempo médio por iteração: 0.00000001830855421687 segundos
+
+Pagina:831
+Tempo total: 0.194074 segundos
+Tempo médio por iteração: 0.00000002335427196149 segundos
+
+Pagina:832
+Tempo total: 0.136829 segundos
+Tempo médio por iteração: 0.00000001644579326923 segundos
+
+Pagina:833
+Tempo total: 0.178499 segundos
+Tempo médio por iteração: 0.00000002142845138055 segundos
+
+Pagina:834
+Tempo total: 0.130605 segundos
+Tempo médio por iteração: 0.00000001566007194245 segundos
+
+Pagina:835
+Tempo total: 0.209166 segundos
+Tempo médio por iteração: 0.00000002504982035928 segundos
+
+Pagina:836
+Tempo total: 0.131754 segundos
+Tempo médio por iteração: 0.00000001576004784689 segundos
+
+Pagina:837
+Tempo total: 0.143026 segundos
+Tempo médio por iteração: 0.00000001708793309438 segundos
+
+Pagina:838
+Tempo total: 0.205410 segundos
+Tempo médio por iteração: 0.00000002451193317422 segundos
+
+Pagina:839
+Tempo total: 0.119484 segundos
+Tempo médio por iteração: 0.00000001424123957092 segundos
+
+Pagina:840
+Tempo total: 0.155366 segundos
+Tempo médio por iteração: 0.00000001849595238095 segundos
+
+Pagina:841
+Tempo total: 0.113935 segundos
+Tempo médio por iteração: 0.00000001354756242568 segundos
+
+Pagina:842
+Tempo total: 0.149521 segundos
+Tempo médio por iteração: 0.00000001775783847981 segundos
+
+Pagina:843
+Tempo total: 0.173547 segundos
+Tempo médio por iteração: 0.00000002058683274021 segundos
+
+Pagina:844
+Tempo total: 0.209445 segundos
+Tempo médio por iteração: 0.00000002481575829384 segundos
+
+Pagina:845
+Tempo total: 0.130112 segundos
+Tempo médio por iteração: 0.00000001539786982249 segundos
+
+Pagina:846
+Tempo total: 0.137303 segundos
+Tempo médio por iteração: 0.00000001622966903073 segundos
+
+Pagina:847
+Tempo total: 0.171891 segundos
+Tempo médio por iteração: 0.00000002029409681228 segundos
+
+Pagina:848
+Tempo total: 0.176155 segundos
+Tempo médio por iteração: 0.00000002077299528302 segundos
+
+Pagina:849
+Tempo total: 0.210661 segundos
+Tempo médio por iteração: 0.00000002481283863369 segundos
+
+Pagina:850
+Tempo total: 0.146215 segundos
+Tempo médio por iteração: 0.00000001720176470588 segundos
+
+Pagina:851
+Tempo total: 0.138358 segundos
+Tempo médio por iteração: 0.00000001625828437133 segundos
+
+Pagina:852
+Tempo total: 0.165508 segundos
+Tempo médio por iteração: 0.00000001942582159624 segundos
+
+Pagina:853
+Tempo total: 0.164140 segundos
+Tempo médio por iteração: 0.00000001924267291911 segundos
+
+Pagina:854
+Tempo total: 0.166946 segundos
+Tempo médio por iteração: 0.00000001954871194379 segundos
+
+Pagina:855
+Tempo total: 0.171778 segundos
+Tempo médio por iteração: 0.00000002009099415205 segundos
+
+Pagina:856
+Tempo total: 0.156272 segundos
+Tempo médio por iteração: 0.00000001825607476636 segundos
+
+Pagina:857
+Tempo total: 0.121797 segundos
+Tempo médio por iteração: 0.00000001421201866978 segundos
+
+Pagina:858
+Tempo total: 0.169534 segundos
+Tempo médio por iteração: 0.00000001975920745921 segundos
+
+Pagina:859
+Tempo total: 0.144100 segundos
+Tempo médio por iteração: 0.00000001677532013970 segundos
+
+Pagina:860
+Tempo total: 0.179829 segundos
+Tempo médio por iteração: 0.00000002091034883721 segundos
+
+Pagina:861
+Tempo total: 0.150648 segundos
+Tempo médio por iteração: 0.00000001749686411150 segundos
+
+Pagina:862
+Tempo total: 0.227934 segundos
+Tempo médio por iteração: 0.00000002644245939675 segundos
+
+Pagina:863
+Tempo total: 0.172504 segundos
+Tempo médio por iteração: 0.00000001998887601390 segundos
+
+Pagina:864
+Tempo total: 0.184265 segundos
+Tempo médio por iteração: 0.00000002132696759259 segundos
+
+Pagina:865
+Tempo total: 0.208981 segundos
+Tempo médio por iteração: 0.00000002415965317919 segundos
+
+Pagina:866
+Tempo total: 0.165606 segundos
+Tempo médio por iteração: 0.00000001912309468822 segundos
+
+Pagina:867
+Tempo total: 0.169025 segundos
+Tempo médio por iteração: 0.00000001949538638985 segundos
+
+Pagina:868
+Tempo total: 0.136222 segundos
+Tempo médio por iteração: 0.00000001569377880184 segundos
+
+Pagina:869
+Tempo total: 0.134754 segundos
+Tempo médio por iteração: 0.00000001550678941312 segundos
+
+Pagina:870
+Tempo total: 0.175446 segundos
+Tempo médio por iteração: 0.00000002016620689655 segundos
+
+Pagina:871
+Tempo total: 0.163642 segundos
+Tempo médio por iteração: 0.00000001878783008037 segundos
+
+Pagina:872
+Tempo total: 0.149167 segundos
+Tempo médio por iteração: 0.00000001710630733945 segundos
+
+Pagina:873
+Tempo total: 0.167399 segundos
+Tempo médio por iteração: 0.00000001917514318442 segundos
+
+Pagina:874
+Tempo total: 0.152564 segundos
+Tempo médio por iteração: 0.00000001745583524027 segundos
+
+Pagina:875
+Tempo total: 0.182681 segundos
+Tempo médio por iteração: 0.00000002087782857143 segundos
+
+Pagina:876
+Tempo total: 0.191538 segundos
+Tempo médio por iteração: 0.00000002186506849315 segundos
+
+Pagina:877
+Tempo total: 0.179743 segundos
+Tempo médio por iteração: 0.00000002049521094641 segundos
+
+Pagina:878
+Tempo total: 0.144177 segundos
+Tempo médio por iteração: 0.00000001642107061503 segundos
+
+Pagina:879
+Tempo total: 0.141379 segundos
+Tempo médio por iteração: 0.00000001608407281001 segundos
+
+Pagina:880
+Tempo total: 0.254271 segundos
+Tempo médio por iteração: 0.00000002889443181818 segundos
+
+Pagina:881
+Tempo total: 0.138618 segundos
+Tempo médio por iteração: 0.00000001573416572077 segundos
+
+Pagina:882
+Tempo total: 0.158227 segundos
+Tempo médio por iteração: 0.00000001793956916100 segundos
+
+Pagina:883
+Tempo total: 0.179583 segundos
+Tempo médio por iteração: 0.00000002033782559456 segundos
+
+Pagina:884
+Tempo total: 0.147322 segundos
+Tempo médio por iteração: 0.00000001666538461538 segundos
+
+Pagina:885
+Tempo total: 0.157748 segundos
+Tempo médio por iteração: 0.00000001782463276836 segundos
+
+Pagina:886
+Tempo total: 0.224460 segundos
+Tempo médio por iteração: 0.00000002533408577878 segundos
+
+Pagina:887
+Tempo total: 0.244062 segundos
+Tempo médio por iteração: 0.00000002751544532131 segundos
+
+Pagina:888
+Tempo total: 0.177187 segundos
+Tempo médio por iteração: 0.00000001995349099099 segundos
+
+Pagina:889
+Tempo total: 0.138759 segundos
+Tempo médio por iteração: 0.00000001560843644544 segundos
+
+Pagina:890
+Tempo total: 0.182794 segundos
+Tempo médio por iteração: 0.00000002053865168539 segundos
+
+Pagina:891
+Tempo total: 0.156072 segundos
+Tempo médio por iteração: 0.00000001751649831650 segundos
+
+Pagina:892
+Tempo total: 0.141993 segundos
+Tempo médio por iteração: 0.00000001591849775785 segundos
+
+Pagina:893
+Tempo total: 0.195094 segundos
+Tempo médio por iteração: 0.00000002184703247480 segundos
+
+Pagina:894
+Tempo total: 0.172395 segundos
+Tempo médio por iteração: 0.00000001928355704698 segundos
+
+Pagina:895
+Tempo total: 0.158850 segundos
+Tempo médio por iteração: 0.00000001774860335196 segundos
+
+Pagina:896
+Tempo total: 0.184000 segundos
+Tempo médio por iteração: 0.00000002053571428571 segundos
+
+Pagina:897
+Tempo total: 0.242922 segundos
+Tempo médio por iteração: 0.00000002708160535117 segundos
+
+Pagina:898
+Tempo total: 0.200080 segundos
+Tempo médio por iteração: 0.00000002228062360802 segundos
+
+Pagina:899
+Tempo total: 0.217732 segundos
+Tempo médio por iteração: 0.00000002421935483871 segundos
+
+Pagina:900
+Tempo total: 0.188416 segundos
+Tempo médio por iteração: 0.00000002093511111111 segundos
+
+Pagina:901
+Tempo total: 0.122068 segundos
+Tempo médio por iteração: 0.00000001354805771365 segundos
+
+Pagina:902
+Tempo total: 0.150346 segundos
+Tempo médio por iteração: 0.00000001666807095344 segundos
+
+Pagina:903
+Tempo total: 0.169215 segundos
+Tempo médio por iteração: 0.00000001873920265781 segundos
+
+Pagina:904
+Tempo total: 0.248735 segundos
+Tempo médio por iteração: 0.00000002751493362832 segundos
+
+Pagina:905
+Tempo total: 0.209052 segundos
+Tempo médio por iteração: 0.00000002309966850829 segundos
+
+Pagina:906
+Tempo total: 0.164182 segundos
+Tempo médio por iteração: 0.00000001812163355408 segundos
+
+Pagina:907
+Tempo total: 0.152498 segundos
+Tempo médio por iteração: 0.00000001681345093716 segundos
+
+Pagina:908
+Tempo total: 0.142379 segundos
+Tempo médio por iteração: 0.00000001568050660793 segundos
+
+Pagina:909
+Tempo total: 0.222488 segundos
+Tempo médio por iteração: 0.00000002447612761276 segundos
+
+Pagina:910
+Tempo total: 0.196065 segundos
+Tempo médio por iteração: 0.00000002154560439560 segundos
+
+Pagina:911
+Tempo total: 0.154715 segundos
+Tempo médio por iteração: 0.00000001698298572997 segundos
+
+Pagina:912
+Tempo total: 0.160402 segundos
+Tempo médio por iteração: 0.00000001758793859649 segundos
+
+Pagina:913
+Tempo total: 0.166598 segundos
+Tempo médio por iteração: 0.00000001824731653888 segundos
+
+Pagina:914
+Tempo total: 0.193807 segundos
+Tempo médio por iteração: 0.00000002120426695842 segundos
+
+Pagina:915
+Tempo total: 0.199442 segundos
+Tempo médio por iteração: 0.00000002179693989071 segundos
+
+Pagina:916
+Tempo total: 0.189249 segundos
+Tempo médio por iteração: 0.00000002066037117904 segundos
+
+Pagina:917
+Tempo total: 0.135005 segundos
+Tempo médio por iteração: 0.00000001472246455834 segundos
+
+Pagina:918
+Tempo total: 0.178159 segundos
+Tempo médio por iteração: 0.00000001940729847495 segundos
+
+Pagina:919
+Tempo total: 0.283141 segundos
+Tempo médio por iteração: 0.00000003080968443961 segundos
+
+Pagina:920
+Tempo total: 0.155577 segundos
+Tempo médio por iteração: 0.00000001691054347826 segundos
+
+Pagina:921
+Tempo total: 0.150392 segundos
+Tempo médio por iteração: 0.00000001632920738328 segundos
+
+Pagina:922
+Tempo total: 0.223149 segundos
+Tempo médio por iteração: 0.00000002420271149675 segundos
+
+Pagina:923
+Tempo total: 0.226125 segundos
+Tempo médio por iteração: 0.00000002449891657638 segundos
+
+Pagina:924
+Tempo total: 0.186226 segundos
+Tempo médio por iteração: 0.00000002015432900433 segundos
+
+Pagina:925
+Tempo total: 0.159120 segundos
+Tempo médio por iteração: 0.00000001720216216216 segundos
+
+Pagina:926
+Tempo total: 0.121287 segundos
+Tempo médio por iteração: 0.00000001309794816415 segundos
+
+Pagina:927
+Tempo total: 0.145001 segundos
+Tempo médio por iteração: 0.00000001564196332255 segundos
+
+Pagina:928
+Tempo total: 0.169735 segundos
+Tempo médio por iteração: 0.00000001829040948276 segundos
+
+Pagina:929
+Tempo total: 0.292064 segundos
+Tempo médio por iteração: 0.00000003143853606028 segundos
+
+Pagina:930
+Tempo total: 0.213355 segundos
+Tempo médio por iteração: 0.00000002294139784946 segundos
+
+Pagina:931
+Tempo total: 0.140587 segundos
+Tempo médio por iteração: 0.00000001510064446831 segundos
+
+Pagina:932
+Tempo total: 0.154589 segundos
+Tempo médio por iteração: 0.00000001658680257511 segundos
+
+Pagina:933
+Tempo total: 0.218950 segundos
+Tempo médio por iteração: 0.00000002346730975348 segundos
+
+Pagina:934
+Tempo total: 0.143673 segundos
+Tempo médio por iteração: 0.00000001538254817987 segundos
+
+Pagina:935
+Tempo total: 0.139688 segundos
+Tempo médio por iteração: 0.00000001493989304813 segundos
+
+Pagina:936
+Tempo total: 0.176115 segundos
+Tempo médio por iteração: 0.00000001881570512821 segundos
+
+Pagina:937
+Tempo total: 0.269048 segundos
+Tempo médio por iteração: 0.00000002871376734258 segundos
+
+Pagina:938
+Tempo total: 0.145099 segundos
+Tempo médio por iteração: 0.00000001546897654584 segundos
+
+Pagina:939
+Tempo total: 0.208985 segundos
+Tempo médio por iteração: 0.00000002225612353568 segundos
+
+Pagina:940
+Tempo total: 0.257761 segundos
+Tempo médio por iteração: 0.00000002742138297872 segundos
+
+Pagina:941
+Tempo total: 0.206054 segundos
+Tempo médio por iteração: 0.00000002189734325186 segundos
+
+Pagina:942
+Tempo total: 0.150458 segundos
+Tempo médio por iteração: 0.00000001597218683652 segundos
+
+Pagina:943
+Tempo total: 0.136549 segundos
+Tempo médio por iteração: 0.00000001448027571580 segundos
+
+Pagina:944
+Tempo total: 0.200545 segundos
+Tempo médio por iteração: 0.00000002124417372881 segundos
+
+Pagina:945
+Tempo total: 0.339685 segundos
+Tempo médio por iteração: 0.00000003594550264550 segundos
+
+Pagina:946
+Tempo total: 0.254767 segundos
+Tempo médio por iteração: 0.00000002693097251586 segundos
+
+Pagina:947
+Tempo total: 0.191716 segundos
+Tempo médio por iteração: 0.00000002024456177402 segundos
+
+Pagina:948
+Tempo total: 0.149450 segundos
+Tempo médio por iteração: 0.00000001576476793249 segundos
+
+Pagina:949
+Tempo total: 0.191159 segundos
+Tempo médio por iteração: 0.00000002014320337197 segundos
+
+Pagina:950
+Tempo total: 0.184518 segundos
+Tempo médio por iteração: 0.00000001942294736842 segundos
+
+Pagina:951
+Tempo total: 0.166301 segundos
+Tempo médio por iteração: 0.00000001748696109359 segundos
+
+Pagina:952
+Tempo total: 0.185229 segundos
+Tempo médio por iteração: 0.00000001945682773109 segundos
+
+Pagina:953
+Tempo total: 0.137270 segundos
+Tempo médio por iteração: 0.00000001440398740818 segundos
+
+Pagina:954
+Tempo total: 0.143925 segundos
+Tempo médio por iteração: 0.00000001508647798742 segundos
+
+Pagina:955
+Tempo total: 0.193205 segundos
+Tempo médio por iteração: 0.00000002023089005236 segundos
+
+Pagina:956
+Tempo total: 0.144925 segundos
+Tempo médio por iteração: 0.00000001515951882845 segundos
+
+Pagina:957
+Tempo total: 0.187358 segundos
+Tempo médio por iteração: 0.00000001957763845350 segundos
+
+Pagina:958
+Tempo total: 0.132765 segundos
+Tempo médio por iteração: 0.00000001385855949896 segundos
+
+Pagina:959
+Tempo total: 0.124655 segundos
+Tempo médio por iteração: 0.00000001299843587070 segundos
+
+Pagina:960
+Tempo total: 0.169686 segundos
+Tempo médio por iteração: 0.00000001767562500000 segundos
+
+Pagina:961
+Tempo total: 0.158006 segundos
+Tempo médio por iteração: 0.00000001644183142560 segundos
+
+Pagina:962
+Tempo total: 0.178545 segundos
+Tempo médio por iteração: 0.00000001855977130977 segundos
+
+Pagina:963
+Tempo total: 0.266497 segundos
+Tempo médio por iteração: 0.00000002767362409138 segundos
+
+Pagina:964
+Tempo total: 0.211179 segundos
+Tempo médio por iteração: 0.00000002190653526971 segundos
+
+Pagina:965
+Tempo total: 0.156291 segundos
+Tempo médio por iteração: 0.00000001619595854922 segundos
+
+Pagina:966
+Tempo total: 0.145190 segundos
+Tempo médio por iteração: 0.00000001503002070393 segundos
+
+Pagina:967
+Tempo total: 0.209936 segundos
+Tempo médio por iteração: 0.00000002171003102378 segundos
+
+Pagina:968
+Tempo total: 0.152114 segundos
+Tempo médio por iteração: 0.00000001571425619835 segundos
+
+Pagina:969
+Tempo total: 0.215269 segundos
+Tempo médio por iteração: 0.00000002221558307534 segundos
+
+Pagina:970
+Tempo total: 0.213754 segundos
+Tempo médio por iteração: 0.00000002203649484536 segundos
+
+Pagina:971
+Tempo total: 0.131413 segundos
+Tempo médio por iteração: 0.00000001353377960865 segundos
+
+Pagina:972
+Tempo total: 0.136538 segundos
+Tempo médio por iteração: 0.00000001404711934156 segundos
+
+Pagina:973
+Tempo total: 0.137890 segundos
+Tempo médio por iteração: 0.00000001417163412127 segundos
+
+Pagina:974
+Tempo total: 0.158611 segundos
+Tempo médio por iteração: 0.00000001628449691992 segundos
+
+Pagina:975
+Tempo total: 0.223458 segundos
+Tempo médio por iteração: 0.00000002291876923077 segundos
+
+Pagina:976
+Tempo total: 0.241927 segundos
+Tempo médio por iteração: 0.00000002478760245902 segundos
+
+Pagina:977
+Tempo total: 0.151679 segundos
+Tempo médio por iteração: 0.00000001552497441146 segundos
+
+Pagina:978
+Tempo total: 0.221334 segundos
+Tempo médio por iteração: 0.00000002263128834356 segundos
+
+Pagina:979
+Tempo total: 0.153155 segundos
+Tempo médio por iteração: 0.00000001564402451481 segundos
+
+Pagina:980
+Tempo total: 0.237115 segundos
+Tempo médio por iteração: 0.00000002419540816327 segundos
+
+Pagina:981
+Tempo total: 0.147756 segundos
+Tempo médio por iteração: 0.00000001506177370031 segundos
+
+Pagina:982
+Tempo total: 0.190411 segundos
+Tempo médio por iteração: 0.00000001939012219959 segundos
+
+Pagina:983
+Tempo total: 0.249227 segundos
+Tempo médio por iteração: 0.00000002535371312309 segundos
+
+Pagina:984
+Tempo total: 0.202311 segundos
+Tempo médio por iteração: 0.00000002056006097561 segundos
+
+Pagina:985
+Tempo total: 0.246953 segundos
+Tempo médio por iteração: 0.00000002507137055838 segundos
+
+Pagina:986
+Tempo total: 0.299560 segundos
+Tempo médio por iteração: 0.00000003038133874239 segundos
+
+Pagina:987
+Tempo total: 0.242062 segundos
+Tempo médio por iteração: 0.00000002452502532928 segundos
+
+Pagina:988
+Tempo total: 0.195809 segundos
+Tempo médio por iteração: 0.00000001981872469636 segundos
+
+Pagina:989
+Tempo total: 0.176597 segundos
+Tempo médio por iteração: 0.00000001785611729019 segundos
+
+Pagina:990
+Tempo total: 0.214675 segundos
+Tempo médio por iteração: 0.00000002168434343434 segundos
+
+Pagina:991
+Tempo total: 0.205326 segundos
+Tempo médio por iteração: 0.00000002071907164480 segundos
+
+Pagina:992
+Tempo total: 0.260256 segundos
+Tempo médio por iteração: 0.00000002623548387097 segundos
+
+Pagina:993
+Tempo total: 0.212992 segundos
+Tempo médio por iteração: 0.00000002144934541793 segundos
+
+Pagina:994
+Tempo total: 0.231400 segundos
+Tempo médio por iteração: 0.00000002327967806841 segundos
+
+Pagina:995
+Tempo total: 0.194130 segundos
+Tempo médio por iteração: 0.00000001951055276382 segundos
+
+Pagina:996
+Tempo total: 0.145577 segundos
+Tempo médio por iteração: 0.00000001461616465863 segundos
+
+Pagina:997
+Tempo total: 0.153305 segundos
+Tempo médio por iteração: 0.00000001537662988967 segundos
+
+Pagina:998
+Tempo total: 0.210344 segundos
+Tempo médio por iteração: 0.00000002107655310621 segundos
+
+Pagina:999
+Tempo total: 0.212278 segundos
+Tempo médio por iteração: 0.00000002124904904905 segundos
+
